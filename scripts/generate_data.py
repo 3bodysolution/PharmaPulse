@@ -349,6 +349,35 @@ def generate_sales(hcps, reps, products):
     return pd.DataFrame(rows)
 
 
+def tune_rep_sales_targets(reps, sales):
+    """Set realistic rep targets based on generated rep-level sales."""
+    target_rng = random.Random(SEED + 1000)
+    rep_sales = sales.groupby("rep_id")["net_sales"].sum().to_dict()
+    rep_ids = list(reps["rep_id"])
+    target_rng.shuffle(rep_ids)
+
+    # Achievement bands are assigned after sales generation so targets are
+    # realistic compared with actual 18-month sales performance.
+    achievement_bands = (
+        [(70, 90)] * 9
+        + [(90, 110)] * 22
+        + [(110, 135)] * 7
+        + [(140, 160)] * 2
+    )
+
+    target_by_rep = {}
+    for rep_id, (min_pct, max_pct) in zip(rep_ids, achievement_bands):
+        total_net_sales = rep_sales.get(rep_id, 0)
+        achievement_pct = target_rng.uniform(min_pct, max_pct)
+        sales_target = total_net_sales / (achievement_pct / 100)
+        target_by_rep[rep_id] = round(sales_target, 2)
+
+    tuned_reps = reps.copy()
+    tuned_reps["sales_target"] = tuned_reps["rep_id"].map(target_by_rep)
+
+    return tuned_reps
+
+
 def generate_campaigns(territories, products):
     """Create campaigns linked to products and territories."""
     rows = []
@@ -467,6 +496,7 @@ def main():
     products = generate_products()
     hcp_calls = generate_hcp_calls(hcps, medical_reps, products)
     sales = generate_sales(hcps, medical_reps, products)
+    medical_reps = tune_rep_sales_targets(medical_reps, sales)
     campaigns = generate_campaigns(territories, products)
     campaign_engagement = generate_campaign_engagement(campaigns, hcps, medical_reps)
 

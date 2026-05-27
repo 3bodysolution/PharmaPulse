@@ -1,41 +1,41 @@
 rep_id,rep_name,manager_name,territory_id,region,hire_date,experience_years,monthly_call_target,sales_target,total_net_sales,active_hcps,territory_name,target_achievement_percent,target_status
-REP025,Laban Dugar,Rudra Sawhney,T001,West,2021-10-31,4,80,525075,53468071.42,42,Pune Central,10182.939850497549,At or above target
-REP018,Daksh Kaul,Pooja Gera,T006,North,2024-08-20,10,100,751476,54007127.77,42,Gurgaon Corporate,7186.806733681449,At or above target
-REP003,Chakrika Tara,Kashish Chad,T003,West,2021-05-30,5,110,550143,39141763.74,42,Nashik North,7114.834459404192,At or above target
-REP037,Odika Tailor,Pooja Gera,T001,West,2020-11-04,18,80,683965,47022511.5,42,Pune Central,6874.987974530861,At or above target
-REP039,Nicholas Seth,George Narula,T003,West,2015-08-28,7,120,540957,36686441.21,42,Nashik North,6781.7666117639665,At or above target
-REP005,Laksh Saini,Watika Balan,T005,North,2017-10-17,1,100,717996,48005148.73,42,Delhi NCR,6685.991109978328,At or above target
-REP010,Dalbir Sodhi,Rudra Sawhney,T010,East,2023-05-29,4,110,656930,42685377.84,41,Kolkata East,6497.705667270486,At or above target
-REP029,Mahika Bali,Pooja Gera,T005,North,2017-07-01,7,90,692893,44464755.76,42,Delhi NCR,6417.261505023142,At or above target
-REP028,Chaitaly Datta,Falan Bains,T004,West,2017-06-04,9,80,635207,39542789.03,42,Nagpur Vidarbha,6225.181559712031,At or above target
-REP014,Patrick Khalsa,Falan Bains,T002,West,2024-06-24,8,90,785447,41534498.72,42,Mumbai Metro,5288.007812112084,At or above target
-REP007,Vedhika Padmanabhan,Rudra Sawhney,T007,South,2024-01-09,2,100,695091,36628454.32,42,Bengaluru Urban,5269.591221868792,At or above target
-REP015,Jagrati Bala,Rudra Sawhney,T003,West,2020-05-20,4,80,844719,43382995.3,42,Nashik North,5135.790162172272,At or above target
-REP020,Garima Jaggi,George Narula,T008,South,2016-08-14,2,100,811057,39383813.0,42,Hyderabad Central,4855.862534938975,At or above target
-REP013,Theodore Rama,Om Sant,T001,West,2020-06-08,11,110,1070332,48446384.84,42,Pune Central,4526.295097222171,At or above target
-REP026,Edhitha Ghosh,George Narula,T002,West,2023-12-18,2,90,915515,41284868.92,42,Mumbai Metro,4509.46941557484,At or above target
-REP001,Tanish Grover,George Narula,T001,West,2019-01-29,10,110,1272325,55570576.53,42,Pune Central,4367.640070736643,At or above target
-REP033,Gautami Sekhon,Rudra Sawhney,T009,South,2014-08-05,14,100,950292,41317089.84,41,Chennai Metro,4347.830965640035,At or above target
-REP022,Manbir Dhar,Kashish Chad,T010,East,2016-04-15,17,100,1045609,43916378.95,41,Kolkata East,4200.076601291687,At or above target
-REP011,Viraj Dutta,Watika Balan,T011,West,2016-02-08,2,90,996546,40970902.59,41,Ahmedabad Gujarat,4111.2906569290335,At or above target
-REP002,Sanaya Dixit,George Narula,T002,West,2014-12-28,16,120,1014068,39029124.33,42,Mumbai Metro,3848.767965264657,At or above target
-REP030,Timothy Chawla,Falan Bains,T006,North,2022-11-04,11,80,1466776,50799198.25,42,Gurgaon Corporate,3463.323523837314,At or above target
-REP038,Keya Chaudhuri,Watika Balan,T002,West,2022-07-23,9,90,1379199,46929545.51,42,Mumbai Metro,3402.666729746759,At or above target
-REP032,Ekaja Ganesh,Pooja Gera,T008,South,2025-03-23,13,80,1302641,43345392.43,42,Hyderabad Central,3327.5010098714843,At or above target
-REP036,Libni Sarma,Brijesh Shenoy,T012,North,2021-07-16,8,110,1364010,45080711.99,41,Jaipur Rajasthan,3305.013305620927,At or above target
-REP017,Parth Swaminathan,Om Sant,T005,North,2015-01-17,4,90,1447738,47446309.56,42,Delhi NCR,3277.2718240455115,At or above target
-REP006,Anirudh Raja,George Narula,T006,North,2020-07-05,7,110,1531859,48743812.78,42,Gurgaon Corporate,3182.00387764148,At or above target
-REP012,Wridesh Lata,Brijesh Shenoy,T012,North,2023-06-25,10,100,1324081,41576044.02,41,Jaipur Rajasthan,3139.992494416883,At or above target
-REP031,Garima Brahmbhatt,Rudra Sawhney,T007,South,2018-06-13,2,120,1408394,44059514.46,42,Bengaluru Urban,3128.351474090347,At or above target
-REP016,Raghav Tailor,Pooja Gera,T004,West,2023-08-16,15,100,1352518,41874260.15,42,Nagpur Vidarbha,3096.022393047634,At or above target
-REP004,Darsh Chahal,Om Sant,T004,West,2019-02-28,8,80,1202582,36547943.5,42,Nagpur Vidarbha,3039.1227791535216,At or above target
-REP034,Shaurya Krish,Brijesh Shenoy,T010,East,2015-07-22,6,100,1435353,43424659.38,41,Kolkata East,3025.364449024038,At or above target
-REP021,Peter Naik,George Narula,T009,South,2015-06-01,3,100,1330984,39576177.47,41,Chennai Metro,2973.4525336142283,At or above target
-REP024,Harrison Nayar,George Narula,T012,North,2019-07-15,18,80,1468974,41815824.59,41,Jaipur Rajasthan,2846.600728807998,At or above target
-REP008,Lipika Madan,George Narula,T008,South,2017-06-17,2,120,1366242,38272373.29,42,Hyderabad Central,2801.2880068099207,At or above target
-REP023,Elijah Prakash,Kashish Chad,T011,West,2025-08-31,6,110,1448334,39212046.11,41,Ahmedabad Gujarat,2707.3897395214085,At or above target
-REP040,Chaitaly Bahri,Om Sant,T004,West,2019-10-28,13,110,1641936,44098519.72,42,Nagpur Vidarbha,2685.7636180703753,At or above target
-REP009,Eiravati Kanda,Pooja Gera,T009,South,2014-11-25,12,80,1717964,44406538.02,41,Chennai Metro,2584.8351897944312,At or above target
-REP027,Udant Gill,Om Sant,T003,West,2020-11-02,13,80,1721221,44271781.4,42,Nashik North,2572.1148765905136,At or above target
-REP019,Anmol Vyas,Rudra Sawhney,T007,South,2022-07-14,3,100,1765217,40245248.61,42,Bengaluru Urban,2279.9037517766938,At or above target
-REP035,Aahana Chokshi,Kashish Chad,T011,West,2014-06-03,5,120,1798507,39412622.63,41,Ahmedabad Gujarat,2191.407797133956,At or above target
+REP010,Dalbir Sodhi,Rudra Sawhney,T010,East,2023-05-29,4,110,28859197.19,42685377.84,41,Kolkata East,147.90909656624444,At or above target
+REP016,Raghav Tailor,Pooja Gera,T004,West,2023-08-16,15,100,28494272.94,41874260.15,42,Nagpur Vidarbha,146.95675947996304,At or above target
+REP004,Darsh Chahal,Om Sant,T004,West,2019-02-28,8,80,27498429.03,36547943.5,42,Nagpur Vidarbha,132.9092053227013,At or above target
+REP026,Edhitha Ghosh,George Narula,T002,West,2023-12-18,2,90,31218301.33,41284868.92,42,Mumbai Metro,132.2457249790407,At or above target
+REP019,Anmol Vyas,Rudra Sawhney,T007,South,2022-07-14,3,100,33135425.92,40245248.61,42,Bengaluru Urban,121.45686223308397,At or above target
+REP023,Elijah Prakash,Kashish Chad,T011,West,2025-08-31,6,110,32731987.17,39212046.11,41,Ahmedabad Gujarat,119.79732824146771,At or above target
+REP022,Manbir Dhar,Kashish Chad,T010,East,2016-04-15,17,100,36804375.14,43916378.95,41,Kolkata East,119.3237999095126,At or above target
+REP020,Garima Jaggi,George Narula,T008,South,2016-08-14,2,100,33597138.86,39383813.0,42,Hyderabad Central,117.22371111454817,At or above target
+REP032,Ekaja Ganesh,Pooja Gera,T008,South,2025-03-23,13,80,37213726.93,43345392.43,42,Hyderabad Central,116.47689174355963,At or above target
+REP011,Viraj Dutta,Watika Balan,T011,West,2016-02-08,2,90,37676442.13,40970902.59,41,Ahmedabad Gujarat,108.74408588961954,At or above target
+REP029,Mahika Bali,Pooja Gera,T005,North,2017-07-01,7,90,40966383.49,44464755.76,42,Delhi NCR,108.5396170517565,At or above target
+REP009,Eiravati Kanda,Pooja Gera,T009,South,2014-11-25,12,80,40957289.92,44406538.02,41,Chennai Metro,108.4215730746279,At or above target
+REP039,Nicholas Seth,George Narula,T003,West,2015-08-28,7,120,34528860.52,36686441.21,42,Nashik North,106.24862986356088,At or above target
+REP017,Parth Swaminathan,Om Sant,T005,North,2015-01-17,4,90,45104154.51,47446309.56,42,Delhi NCR,105.192770101656,At or above target
+REP031,Garima Brahmbhatt,Rudra Sawhney,T007,South,2018-06-13,2,120,41923651.26,44059514.46,42,Bengaluru Urban,105.09464976405303,At or above target
+REP021,Peter Naik,George Narula,T009,South,2015-06-01,3,100,37944125.66,39576177.47,41,Chennai Metro,104.3011975677713,At or above target
+REP036,Libni Sarma,Brijesh Shenoy,T012,North,2021-07-16,8,110,43296755.33,45080711.99,41,Jaipur Rajasthan,104.12030103965762,At or above target
+REP003,Chakrika Tara,Kashish Chad,T003,West,2021-05-30,5,110,37737562.8,39141763.74,42,Nashik North,103.72096350641915,At or above target
+REP038,Keya Chaudhuri,Watika Balan,T002,West,2022-07-23,9,90,45906053.56,46929545.51,42,Mumbai Metro,102.22953591221314,At or above target
+REP025,Laban Dugar,Rudra Sawhney,T001,West,2021-10-31,4,80,53033028.0,53468071.42,42,Pune Central,100.8203254394601,At or above target
+REP001,Tanish Grover,George Narula,T001,West,2019-01-29,10,110,55127065.39,55570576.53,42,Pune Central,100.80452521254732,At or above target
+REP027,Udant Gill,Om Sant,T003,West,2020-11-02,13,80,44678224.43,44271781.4,42,Nashik North,99.09028831117315,Below target
+REP037,Odika Tailor,Pooja Gera,T001,West,2020-11-04,18,80,48256175.7,47022511.5,42,Pune Central,97.44351021997791,Below target
+REP006,Anirudh Raja,George Narula,T006,North,2020-07-05,7,110,50891200.09,48743812.78,42,Gurgaon Corporate,95.78043491565852,Below target
+REP012,Wridesh Lata,Brijesh Shenoy,T012,North,2023-06-25,10,100,44164119.19,41576044.02,41,Jaipur Rajasthan,94.13986915743581,Below target
+REP028,Chaitaly Datta,Falan Bains,T004,West,2017-06-04,9,80,42124817.61,39542789.03,42,Nagpur Vidarbha,93.87052876072975,Below target
+REP040,Chaitaly Bahri,Om Sant,T004,West,2019-10-28,13,110,47314039.2,44098519.72,42,Nagpur Vidarbha,93.20387873373532,Below target
+REP008,Lipika Madan,George Narula,T008,South,2017-06-17,2,120,41379622.43,38272373.29,42,Hyderabad Central,92.49087121262068,Below target
+REP014,Patrick Khalsa,Falan Bains,T002,West,2024-06-24,8,90,45657453.61,41534498.72,42,Mumbai Metro,90.96980982509945,Below target
+REP030,Timothy Chawla,Falan Bains,T006,North,2022-11-04,11,80,55879439.51,50799198.25,42,Gurgaon Corporate,90.90856797321517,Below target
+REP018,Daksh Kaul,Pooja Gera,T006,North,2024-08-20,10,100,59651234.95,54007127.77,42,Gurgaon Corporate,90.5381553546529,Below target
+REP005,Laksh Saini,Watika Balan,T005,North,2017-10-17,1,100,53688437.1,48005148.73,42,Delhi NCR,89.41431586206483,Below target
+REP013,Theodore Rama,Om Sant,T001,West,2020-06-08,11,110,54690770.25,48446384.84,42,Pune Central,88.58237801103195,Below target
+REP024,Harrison Nayar,George Narula,T012,North,2019-07-15,18,80,47258625.79,41815824.59,41,Jaipur Rajasthan,88.48294653300795,Below target
+REP033,Gautami Sekhon,Rudra Sawhney,T009,South,2014-08-05,14,100,49278955.54,41317089.84,41,Chennai Metro,83.84327424809703,Below target
+REP007,Vedhika Padmanabhan,Rudra Sawhney,T007,South,2024-01-09,2,100,45430551.33,36628454.32,42,Bengaluru Urban,80.6251591664318,Below target
+REP002,Sanaya Dixit,George Narula,T002,West,2014-12-28,16,120,49823415.22,39029124.33,42,Mumbai Metro,78.33490369470502,Below target
+REP034,Shaurya Krish,Brijesh Shenoy,T010,East,2015-07-22,6,100,59093435.32,43424659.38,41,Kolkata East,73.48474351651554,Below target
+REP015,Jagrati Bala,Rudra Sawhney,T003,West,2020-05-20,4,80,61159971.83,43382995.3,42,Nashik North,70.93364172990006,Below target
+REP035,Aahana Chokshi,Kashish Chad,T011,West,2014-06-03,5,120,55906953.37,39412622.63,41,Ahmedabad Gujarat,70.4968170402021,Below target
