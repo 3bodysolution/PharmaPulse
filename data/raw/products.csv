@@ -1,0 +1,26 @@
+product_id,product_name,therapy_area,brand_type,launch_date,unit_price,margin_percent,target_specialty
+PROD001,Cardiovance,Cardiology,Generic,2020-11-04,1626.87,48.02,Cardiologist
+PROD002,GlucoRight,Diabetes,Generic,2018-03-08,1304.51,23.2,Diabetologist
+PROD003,RespiraPlus,Respiratory,Branded,2017-08-31,4043.45,57.81,Pulmonologist
+PROD004,GastroEase,Gastroenterology,Generic,2022-03-20,2438.91,57.27,Gastroenterologist
+PROD005,NeuroCalm,Neurology,Branded,2019-04-18,558.59,52.22,Neurologist
+PROD006,OncoRelief,Oncology,Specialty,2022-10-16,3695.33,64.19,Oncologist
+PROD007,DermaCure,Dermatology,Branded,2019-02-20,2641.53,67.2,Dermatologist
+PROD008,PainAway,Pain Management,Generic,2017-09-05,4216.2,67.61,General Physician
+PROD009,LipidSure,Cardiology,Branded,2025-09-16,1156.09,36.63,Cardiologist
+PROD010,InsuCare,Diabetes,Specialty,2017-12-26,243.54,54.23,Diabetologist
+PROD011,BronchoFree,Respiratory,Specialty,2022-02-24,4273.85,60.49,Pulmonologist
+PROD012,AcidGuard,Gastroenterology,Specialty,2024-08-12,1473.65,44.56,Gastroenterologist
+PROD013,MigraLess,Neurology,Branded,2016-12-05,1138.89,32.07,Neurologist
+PROD014,Immunex,Oncology,Branded,2023-09-28,1572.99,50.25,Oncologist
+PROD015,Skinova,Dermatology,Generic,2019-03-18,3260.19,64.26,Dermatologist
+PROD016,OrthoFlex,Pain Management,Branded,2023-10-16,215.98,48.98,General Physician
+PROD017,BPControl,Cardiology,Branded,2019-01-28,3827.59,61.59,Cardiologist
+PROD018,SugarNorm,Diabetes,Generic,2017-04-24,3205.88,52.46,Diabetologist
+PROD019,AirFlo,Respiratory,Generic,2018-02-15,1441.73,28.28,Pulmonologist
+PROD020,HepatoSafe,Gastroenterology,Specialty,2022-01-13,4275.28,58.42,Gastroenterologist
+PROD021,NervePlus,Neurology,Specialty,2019-11-25,1509.7,54.53,Neurologist
+PROD022,ChemoCare,Oncology,Branded,2019-08-20,3035.03,59.46,Oncologist
+PROD023,Dermashield,Dermatology,Generic,2023-05-14,3334.9,35.55,Dermatologist
+PROD024,JointEase,Pain Management,Specialty,2025-10-30,127.87,54.29,Orthopedic Surgeon
+PROD025,CardioMax,Cardiology,Specialty,2025-08-04,261.84,49.71,Cardiologist

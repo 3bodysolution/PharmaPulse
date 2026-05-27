@@ -1,0 +1,501 @@
+hcp_id,hcp_name,specialty,hcp_tier,territory_id,city,state,affiliated_hospital,years_practicing,patient_volume,preferred_channel,email_opt_in
+HCP0001,Dr. Aryan Maharaj,Dermatologist,Tier 2,T001,Pune,Maharashtra,Kapoor and Sons Hospital,30,683,Phone,True
+HCP0002,Dr. Gagan Sami,Endocrinologist,Tier 3,T002,Mumbai,Maharashtra,Balan Inc Hospital,23,364,Email,True
+HCP0003,Dr. Viraj Tiwari,Gastroenterologist,Tier 1,T003,Nashik,Maharashtra,"Bala, Issac and Saini Hospital",26,179,Phone,False
+HCP0004,Dr. Saumya Mall,Orthopedic Surgeon,Tier 2,T004,Nagpur,Maharashtra,Dutta Ltd Hospital,4,827,Webinar,True
+HCP0005,Dr. Harini Mall,Neurologist,Tier 1,T005,Delhi,Delhi,Kale LLC Hospital,20,723,Phone,True
+HCP0006,Dr. George Rai,Diabetologist,Tier 1,T006,Gurgaon,Haryana,Parmer LLC Hospital,16,871,Phone,True
+HCP0007,Dr. Caleb Sharaf,Pulmonologist,Tier 3,T007,Bengaluru,Karnataka,"Dash, Radhakrishnan and Brar Hospital",26,364,Webinar,False
+HCP0008,Dr. Janaki Handa,Endocrinologist,Tier 2,T008,Hyderabad,Telangana,"Boase, Bath and Kari Hospital",15,766,Phone,True
+HCP0009,Dr. Fariq Kaul,Orthopedic Surgeon,Tier 3,T009,Chennai,Tamil Nadu,Rai LLC Hospital,17,247,Webinar,False
+HCP0010,Dr. Janya Gaba,General Physician,Tier 3,T010,Kolkata,West Bengal,Pant-Kadakia Hospital,16,781,Phone,True
+HCP0011,Dr. Ekbal Garg,Pulmonologist,Tier 3,T011,Ahmedabad,Gujarat,"Konda, Gade and Shere Hospital",22,490,Phone,True
+HCP0012,Dr. Anamika Kanda,Pulmonologist,Tier 3,T012,Jaipur,Rajasthan,"Nair, Bhalla and Karnik Hospital",22,297,Webinar,False
+HCP0013,Dr. Diya Rattan,Oncologist,Tier 1,T001,Pune,Maharashtra,Bhatti-Kakar Hospital,10,332,Phone,False
+HCP0014,Dr. Simon Tata,Orthopedic Surgeon,Tier 2,T002,Mumbai,Maharashtra,Shanker-Dhar Hospital,16,221,Webinar,True
+HCP0015,Dr. Liam Koshy,Cardiologist,Tier 3,T003,Nashik,Maharashtra,"Yohannan, Lall and Sangha Hospital",11,722,Email,False
+HCP0016,Dr. Janaki Kanda,Orthopedic Surgeon,Tier 1,T004,Nagpur,Maharashtra,Upadhyay Group Hospital,26,690,Webinar,False
+HCP0017,Dr. Champak Choudhary,Dermatologist,Tier 3,T005,Delhi,Delhi,Dutta Ltd Hospital,2,776,In-person,False
+HCP0018,Dr. Devansh Rajan,Gastroenterologist,Tier 1,T006,Gurgaon,Haryana,Sidhu-Wadhwa Hospital,29,241,Webinar,True
+HCP0019,Dr. Advay Contractor,General Physician,Tier 3,T007,Bengaluru,Karnataka,"Yadav, Loke and Oak Hospital",13,599,In-person,False
+HCP0020,Dr. Chaaya Saran,Dermatologist,Tier 3,T008,Hyderabad,Telangana,Setty Inc Hospital,11,462,Email,True
+HCP0021,Dr. Xiti Gokhale,Orthopedic Surgeon,Tier 2,T009,Chennai,Tamil Nadu,"Cherian, Misra and Tripathi Hospital",3,194,Phone,False
+HCP0022,Dr. Michael Prakash,Pulmonologist,Tier 1,T010,Kolkata,West Bengal,Zacharia PLC Hospital,7,167,Webinar,True
+HCP0023,Dr. Ekiya Suresh,Dermatologist,Tier 3,T011,Ahmedabad,Gujarat,Choudhury LLC Hospital,10,755,Webinar,True
+HCP0024,Dr. Wriddhish Bhardwaj,General Physician,Tier 2,T012,Jaipur,Rajasthan,Brar Inc Hospital,29,296,Email,False
+HCP0025,Dr. Ekapad Walia,Neurologist,Tier 3,T001,Pune,Maharashtra,Dave Ltd Hospital,25,528,Webinar,True
+HCP0026,Dr. Noah Lanka,Pulmonologist,Tier 2,T002,Mumbai,Maharashtra,"Sampath, Kakar and Zacharia Hospital",23,101,Email,True
+HCP0027,Dr. Devika Rastogi,Cardiologist,Tier 1,T003,Nashik,Maharashtra,"Prakash, Sarma and Varughese Hospital",5,314,In-person,True
+HCP0028,Dr. Jai Kota,Gastroenterologist,Tier 1,T004,Nagpur,Maharashtra,Bhatt LLC Hospital,17,365,Webinar,True
+HCP0029,Dr. Victor Kannan,Dermatologist,Tier 1,T005,Delhi,Delhi,Bobal Ltd Hospital,32,328,Webinar,False
+HCP0030,Dr. Veer Bir,Pulmonologist,Tier 1,T006,Gurgaon,Haryana,Narayanan Inc Hospital,29,442,Webinar,False
+HCP0031,Dr. Arya Sunder,Oncologist,Tier 3,T007,Bengaluru,Karnataka,Zacharia and Sons Hospital,5,769,In-person,True
+HCP0032,Dr. Xavier Solanki,Neurologist,Tier 3,T008,Hyderabad,Telangana,Gupta-Chandra Hospital,8,334,Email,True
+HCP0033,Dr. Raagini Pandya,Dermatologist,Tier 2,T009,Chennai,Tamil Nadu,Roy-Sibal Hospital,29,267,Phone,False
+HCP0034,Dr. Guneet Bhat,Pulmonologist,Tier 3,T010,Kolkata,West Bengal,Nori-Chopra Hospital,6,533,In-person,True
+HCP0035,Dr. Rehaan Gupta,Dermatologist,Tier 3,T011,Ahmedabad,Gujarat,"Sen, Dey and Sami Hospital",7,851,Email,True
+HCP0036,Dr. Arya Shere,Neurologist,Tier 2,T012,Jaipur,Rajasthan,Borra Group Hospital,15,490,In-person,True
+HCP0037,Dr. Chandresh Zachariah,Neurologist,Tier 1,T001,Pune,Maharashtra,Chander and Sons Hospital,26,351,Webinar,False
+HCP0038,Dr. Niharika Sunder,Neurologist,Tier 3,T002,Mumbai,Maharashtra,Kala-Rattan Hospital,33,238,Email,False
+HCP0039,Dr. Nitesh Raghavan,Pulmonologist,Tier 3,T003,Nashik,Maharashtra,Ramakrishnan LLC Hospital,5,845,Phone,True
+HCP0040,Dr. Bhavika Sampath,Cardiologist,Tier 3,T004,Nagpur,Maharashtra,"Sur, Dubey and Gupta Hospital",34,623,Email,True
+HCP0041,Dr. Teerth Bhardwaj,Dermatologist,Tier 1,T005,Delhi,Delhi,"Bhat, Murthy and Bhandari Hospital",13,150,In-person,True
+HCP0042,Dr. Vansha Thakkar,Neurologist,Tier 1,T006,Gurgaon,Haryana,"Dugar, Bhandari and Trivedi Hospital",17,672,In-person,True
+HCP0043,Dr. Quincy Biswas,Neurologist,Tier 3,T007,Bengaluru,Karnataka,"Bir, Keer and Raval Hospital",35,403,Phone,True
+HCP0044,Dr. Yatin Baral,Gastroenterologist,Tier 2,T008,Hyderabad,Telangana,"Bumb, Saini and Virk Hospital",27,214,Phone,False
+HCP0045,Dr. Advika Jayaraman,Gastroenterologist,Tier 3,T009,Chennai,Tamil Nadu,"Murthy, Khare and Lanka Hospital",6,89,Webinar,True
+HCP0046,Dr. Karan Mital,Diabetologist,Tier 2,T010,Kolkata,West Bengal,Mutti-Bora Hospital,34,351,Email,False
+HCP0047,Dr. Tara Chaudhry,Diabetologist,Tier 3,T011,Ahmedabad,Gujarat,Yogi and Sons Hospital,25,371,Email,False
+HCP0048,Dr. Kevin Palla,Dermatologist,Tier 3,T012,Jaipur,Rajasthan,Konda LLC Hospital,35,88,Phone,True
+HCP0049,Dr. Nakul Sarma,Endocrinologist,Tier 2,T001,Pune,Maharashtra,"Mittal, Wadhwa and Anand Hospital",8,840,Email,False
+HCP0050,Dr. Hemang Desai,General Physician,Tier 3,T002,Mumbai,Maharashtra,D’Alia-Chhabra Hospital,23,288,Phone,False
+HCP0051,Dr. Anita Manda,General Physician,Tier 3,T003,Nashik,Maharashtra,"Kade, Oza and Jani Hospital",5,174,Webinar,False
+HCP0052,Dr. Yashasvi Suresh,Cardiologist,Tier 1,T004,Nagpur,Maharashtra,Behl-Chanda Hospital,10,732,Phone,True
+HCP0053,Dr. Aradhana Basu,Oncologist,Tier 3,T005,Delhi,Delhi,Nath and Sons Hospital,29,654,In-person,True
+HCP0054,Dr. Neel Sathe,Diabetologist,Tier 3,T006,Gurgaon,Haryana,"Sane, Andra and Choudhury Hospital",11,638,In-person,False
+HCP0055,Dr. Manthan Banik,Orthopedic Surgeon,Tier 3,T007,Bengaluru,Karnataka,Divan-Sani Hospital,29,210,In-person,False
+HCP0056,Dr. Benjamin Morar,Gastroenterologist,Tier 3,T008,Hyderabad,Telangana,Baral-Parmar Hospital,4,446,Email,True
+HCP0057,Dr. Zaid Chauhan,Diabetologist,Tier 2,T009,Chennai,Tamil Nadu,Ray-Dubey Hospital,28,715,Email,True
+HCP0058,Dr. Nicholas Goel,Endocrinologist,Tier 3,T010,Kolkata,West Bengal,Bakshi-Gola Hospital,13,502,In-person,True
+HCP0059,Dr. Nisha Kothari,Gastroenterologist,Tier 3,T011,Ahmedabad,Gujarat,Dutta-Chokshi Hospital,28,765,Email,False
+HCP0060,Dr. Balvan Singhal,Endocrinologist,Tier 3,T012,Jaipur,Rajasthan,Iyengar Group Hospital,8,471,In-person,False
+HCP0061,Dr. Dalaja Kari,Pulmonologist,Tier 1,T001,Pune,Maharashtra,Bajwa Ltd Hospital,31,438,Phone,True
+HCP0062,Dr. Mohini Narasimhan,Pulmonologist,Tier 1,T002,Mumbai,Maharashtra,Boase-Mallick Hospital,14,488,Phone,False
+HCP0063,Dr. Yashodhara Ratta,Diabetologist,Tier 3,T003,Nashik,Maharashtra,"Yadav, Narula and Bala Hospital",19,439,Webinar,False
+HCP0064,Dr. Advika Gokhale,Cardiologist,Tier 1,T004,Nagpur,Maharashtra,"Lanka, Barad and Chopra Hospital",18,262,Phone,True
+HCP0065,Dr. Hemani Murthy,Diabetologist,Tier 3,T005,Delhi,Delhi,Vaidya-D’Alia Hospital,24,826,Phone,False
+HCP0066,Dr. Ranveer Kumar,Orthopedic Surgeon,Tier 3,T006,Gurgaon,Haryana,Sarin Inc Hospital,9,474,Email,False
+HCP0067,Dr. Januja Sankar,Cardiologist,Tier 3,T007,Bengaluru,Karnataka,Narayanan PLC Hospital,2,612,Email,False
+HCP0068,Dr. Jeet Mital,Neurologist,Tier 1,T008,Hyderabad,Telangana,"More, Rege and Narain Hospital",23,718,Phone,True
+HCP0069,Dr. Chakrika Datta,General Physician,Tier 2,T009,Chennai,Tamil Nadu,Salvi Ltd Hospital,28,414,Webinar,False
+HCP0070,Dr. Owen Mitra,Dermatologist,Tier 1,T010,Kolkata,West Bengal,Acharya-Modi Hospital,28,760,Webinar,True
+HCP0071,Dr. Shivansh Sani,Orthopedic Surgeon,Tier 3,T011,Ahmedabad,Gujarat,"Nagy, Shroff and Sathe Hospital",27,641,In-person,False
+HCP0072,Dr. Tanay Vaidya,General Physician,Tier 2,T012,Jaipur,Rajasthan,Gara-Chad Hospital,22,556,Webinar,False
+HCP0073,Dr. Yutika Nayak,Pulmonologist,Tier 2,T001,Pune,Maharashtra,Keer Ltd Hospital,12,754,In-person,False
+HCP0074,Dr. Umang Issac,Dermatologist,Tier 3,T002,Mumbai,Maharashtra,Bakshi Inc Hospital,23,175,Email,False
+HCP0075,Dr. Vaishnavi Bora,Pulmonologist,Tier 3,T003,Nashik,Maharashtra,Sachdeva-Hayer Hospital,11,105,In-person,True
+HCP0076,Dr. Warda Ratta,Oncologist,Tier 3,T004,Nagpur,Maharashtra,Divan Ltd Hospital,6,546,Webinar,True
+HCP0077,Dr. Hredhaan Sandal,Neurologist,Tier 2,T005,Delhi,Delhi,Goda Ltd Hospital,17,231,In-person,True
+HCP0078,Dr. Chandresh Krish,Neurologist,Tier 2,T006,Gurgaon,Haryana,Shan and Sons Hospital,35,555,In-person,True
+HCP0079,Dr. Edhitha Savant,Diabetologist,Tier 2,T007,Bengaluru,Karnataka,"Thaman, Sandhu and Sehgal Hospital",31,763,Phone,False
+HCP0080,Dr. Vaishnavi Sengupta,Orthopedic Surgeon,Tier 3,T008,Hyderabad,Telangana,Kota-Malhotra Hospital,34,516,Webinar,True
+HCP0081,Dr. William Maharaj,Oncologist,Tier 2,T009,Chennai,Tamil Nadu,Brahmbhatt-Mangal Hospital,17,732,Phone,False
+HCP0082,Dr. Anita Nayak,Pulmonologist,Tier 2,T010,Kolkata,West Bengal,Zachariah-Buch Hospital,6,810,Phone,True
+HCP0083,Dr. Matthew Kashyap,General Physician,Tier 2,T011,Ahmedabad,Gujarat,Dua-Kala Hospital,7,221,Email,True
+HCP0084,Dr. Oeshi Reddy,Neurologist,Tier 3,T012,Jaipur,Rajasthan,Shukla-Sagar Hospital,15,145,Webinar,False
+HCP0085,Dr. Samuel Salvi,Gastroenterologist,Tier 2,T001,Pune,Maharashtra,Bahri-Rai Hospital,28,143,Email,False
+HCP0086,Dr. Abeer Pandey,Neurologist,Tier 3,T002,Mumbai,Maharashtra,Ramakrishnan-Saini Hospital,3,863,Webinar,False
+HCP0087,Dr. Vinaya Kanda,Cardiologist,Tier 3,T003,Nashik,Maharashtra,Sarin-Sunder Hospital,21,851,Webinar,False
+HCP0088,Dr. Lopa Nayar,Dermatologist,Tier 3,T004,Nagpur,Maharashtra,"Ravel, Gandhi and Sibal Hospital",16,579,Email,False
+HCP0089,Dr. Avi Ramesh,Neurologist,Tier 2,T005,Delhi,Delhi,"Bala, Chacko and Sangha Hospital",26,424,Webinar,True
+HCP0090,Dr. Triya Gopal,Oncologist,Tier 3,T006,Gurgaon,Haryana,Lad Group Hospital,3,483,In-person,True
+HCP0091,Dr. Siddharth Sha,Neurologist,Tier 1,T007,Bengaluru,Karnataka,Nazareth-Raghavan Hospital,31,266,In-person,False
+HCP0092,Dr. Oviya Krishnan,Neurologist,Tier 2,T008,Hyderabad,Telangana,Singhal Inc Hospital,31,414,Phone,False
+HCP0093,Dr. Inaya Kapur,General Physician,Tier 3,T009,Chennai,Tamil Nadu,"Biswas, Baria and Balasubramanian Hospital",28,338,In-person,False
+HCP0094,Dr. Ryan Bahri,Cardiologist,Tier 3,T010,Kolkata,West Bengal,"Dua, Khare and Date Hospital",5,438,Email,True
+HCP0095,Dr. Ishwar Kamdar,Cardiologist,Tier 3,T011,Ahmedabad,Gujarat,Kunda-Pillay Hospital,17,284,In-person,True
+HCP0096,Dr. Ishwar Gade,Pulmonologist,Tier 1,T012,Jaipur,Rajasthan,Chokshi-Bal Hospital,9,657,Email,False
+HCP0097,Dr. Keya Ranganathan,General Physician,Tier 3,T001,Pune,Maharashtra,"Issac, Borra and Kibe Hospital",12,700,In-person,True
+HCP0098,Dr. Charvi Dara,General Physician,Tier 1,T002,Mumbai,Maharashtra,"Barman, Palan and Walia Hospital",3,399,Webinar,False
+HCP0099,Dr. Kamala Biswas,Pulmonologist,Tier 1,T003,Nashik,Maharashtra,"Om, Arora and Salvi Hospital",17,184,Phone,True
+HCP0100,Dr. Hitesh Sant,Orthopedic Surgeon,Tier 3,T004,Nagpur,Maharashtra,Sharaf-Dua Hospital,24,625,Webinar,False
+HCP0101,Dr. Patrick Vig,Diabetologist,Tier 2,T005,Delhi,Delhi,"Madan, Yohannan and Sule Hospital",23,92,Webinar,False
+HCP0102,Dr. Rajata Loyal,Diabetologist,Tier 2,T006,Gurgaon,Haryana,Korpal-Chadha Hospital,25,730,Webinar,True
+HCP0103,Dr. Shravya Kohli,Neurologist,Tier 1,T007,Bengaluru,Karnataka,Raghavan-Nayar Hospital,35,746,Phone,False
+HCP0104,Dr. Warda Nair,Oncologist,Tier 2,T008,Hyderabad,Telangana,Sura and Sons Hospital,19,410,Email,True
+HCP0105,Dr. Aarna Oak,General Physician,Tier 3,T009,Chennai,Tamil Nadu,Majumdar-Anne Hospital,17,848,Webinar,False
+HCP0106,Dr. Frederick Khurana,Gastroenterologist,Tier 1,T010,Kolkata,West Bengal,"Ray, Suresh and Khosla Hospital",22,266,Webinar,True
+HCP0107,Dr. Vritti Sem,Gastroenterologist,Tier 3,T011,Ahmedabad,Gujarat,Chander LLC Hospital,23,366,Phone,True
+HCP0108,Dr. Nidhi Kohli,Dermatologist,Tier 3,T012,Jaipur,Rajasthan,Pillay-Solanki Hospital,7,327,Webinar,False
+HCP0109,Dr. Pavani Narayanan,Dermatologist,Tier 3,T001,Pune,Maharashtra,Setty-Madan Hospital,32,741,Webinar,False
+HCP0110,Dr. Zayan Kashyap,Cardiologist,Tier 1,T002,Mumbai,Maharashtra,Hans LLC Hospital,16,494,Email,False
+HCP0111,Dr. Qasim Handa,Orthopedic Surgeon,Tier 2,T003,Nashik,Maharashtra,Sule LLC Hospital,35,432,Webinar,False
+HCP0112,Dr. Harish Hari,Gastroenterologist,Tier 3,T004,Nagpur,Maharashtra,Karan-Patel Hospital,19,393,Phone,True
+HCP0113,Dr. Chasmum Atwal,Diabetologist,Tier 3,T005,Delhi,Delhi,"Walla, Date and Mahal Hospital",22,202,Email,True
+HCP0114,Dr. Chatura Master,Pulmonologist,Tier 3,T006,Gurgaon,Haryana,"Date, Swaminathan and Chauhan Hospital",19,821,Phone,True
+HCP0115,Dr. Bhavani Singh,Pulmonologist,Tier 2,T007,Bengaluru,Karnataka,Sastry-Oak Hospital,25,263,Phone,True
+HCP0116,Dr. Charan Krishnan,Dermatologist,Tier 1,T008,Hyderabad,Telangana,Comar-Bhattacharyya Hospital,4,135,Phone,True
+HCP0117,Dr. Vyanjana Borah,Oncologist,Tier 1,T009,Chennai,Tamil Nadu,"Bera, Doshi and Dixit Hospital",2,667,Phone,False
+HCP0118,Dr. Frederick Kothari,Oncologist,Tier 2,T010,Kolkata,West Bengal,Saha PLC Hospital,13,132,Phone,False
+HCP0119,Dr. Lajita Seshadri,Diabetologist,Tier 3,T011,Ahmedabad,Gujarat,Mishra-Sanghvi Hospital,27,583,In-person,True
+HCP0120,Dr. Darpan Chaudhary,Endocrinologist,Tier 1,T012,Jaipur,Rajasthan,Kakar LLC Hospital,21,167,Email,True
+HCP0121,Dr. Naksh Khatri,Dermatologist,Tier 3,T001,Pune,Maharashtra,Borde and Sons Hospital,16,874,Webinar,False
+HCP0122,Dr. Nilima Seshadri,Oncologist,Tier 2,T002,Mumbai,Maharashtra,"Singhal, Manne and Bali Hospital",29,392,In-person,True
+HCP0123,Dr. Bhavya Mandal,Pulmonologist,Tier 3,T003,Nashik,Maharashtra,"Setty, Bobal and Kaur Hospital",18,756,In-person,True
+HCP0124,Dr. Rudra Sandal,Pulmonologist,Tier 1,T004,Nagpur,Maharashtra,Kar Ltd Hospital,6,240,In-person,False
+HCP0125,Dr. Amaira Dhar,Oncologist,Tier 3,T005,Delhi,Delhi,Bhasin and Sons Hospital,32,378,In-person,True
+HCP0126,Dr. Bhavya Sarna,General Physician,Tier 3,T006,Gurgaon,Haryana,Sidhu Ltd Hospital,31,152,Email,False
+HCP0127,Dr. Neha Magar,Orthopedic Surgeon,Tier 3,T007,Bengaluru,Karnataka,"Zacharia, Tak and Sarma Hospital",14,515,In-person,True
+HCP0128,Dr. Balveer Sankaran,Endocrinologist,Tier 3,T008,Hyderabad,Telangana,"Naidu, Krishna and Bal Hospital",11,153,In-person,True
+HCP0129,Dr. Veer Bail,General Physician,Tier 3,T009,Chennai,Tamil Nadu,"Luthra, Baria and Gill Hospital",20,529,In-person,False
+HCP0130,Dr. Zilmil Sathe,General Physician,Tier 3,T010,Kolkata,West Bengal,Golla-Sarin Hospital,19,592,Webinar,False
+HCP0131,Dr. Gavin Singhal,Diabetologist,Tier 3,T011,Ahmedabad,Gujarat,Rege-Nath Hospital,29,832,Phone,False
+HCP0132,Dr. Henry Dyal,Cardiologist,Tier 1,T012,Jaipur,Rajasthan,Sabharwal-Tandon Hospital,3,863,Phone,True
+HCP0133,Dr. Nandini Bansal,Endocrinologist,Tier 2,T001,Pune,Maharashtra,Chakrabarti-Murty Hospital,30,364,Email,False
+HCP0134,Dr. Ekiya D’Alia,Oncologist,Tier 3,T002,Mumbai,Maharashtra,Varkey-Agarwal Hospital,32,436,Webinar,False
+HCP0135,Dr. Odika Bhagat,Gastroenterologist,Tier 3,T003,Nashik,Maharashtra,Vasa LLC Hospital,12,417,Webinar,False
+HCP0136,Dr. Riya Behl,General Physician,Tier 3,T004,Nagpur,Maharashtra,Loke PLC Hospital,27,858,In-person,False
+HCP0137,Dr. Bhavna Sarma,Diabetologist,Tier 2,T005,Delhi,Delhi,"Sundaram, Dara and Balakrishnan Hospital",22,198,Webinar,True
+HCP0138,Dr. Nathan Mukhopadhyay,Dermatologist,Tier 2,T006,Gurgaon,Haryana,"Atwal, Reddy and Chander Hospital",5,272,Phone,False
+HCP0139,Dr. Ishaan Shenoy,Oncologist,Tier 3,T007,Bengaluru,Karnataka,Dube Group Hospital,15,353,Email,False
+HCP0140,Dr. Yashodhara Mahajan,Oncologist,Tier 3,T008,Hyderabad,Telangana,Subramanian-Sodhi Hospital,33,204,In-person,True
+HCP0141,Dr. Tanmayi Dhillon,Endocrinologist,Tier 2,T009,Chennai,Tamil Nadu,Halder-Trivedi Hospital,2,645,Webinar,True
+HCP0142,Dr. Ekaraj Majumdar,Pulmonologist,Tier 3,T010,Kolkata,West Bengal,Oak-Tripathi Hospital,9,552,In-person,True
+HCP0143,Dr. Aarnav Mandal,Oncologist,Tier 3,T011,Ahmedabad,Gujarat,"Misra, Suri and Dixit Hospital",20,601,Phone,False
+HCP0144,Dr. Veda Pai,Oncologist,Tier 3,T012,Jaipur,Rajasthan,Purohit-Shah Hospital,17,547,Email,False
+HCP0145,Dr. Ranbir Khare,Pulmonologist,Tier 3,T001,Pune,Maharashtra,"Rajagopal, Kaur and Roy Hospital",34,844,Email,True
+HCP0146,Dr. Eesha Solanki,General Physician,Tier 3,T002,Mumbai,Maharashtra,"Raj, Raju and Doshi Hospital",28,428,Phone,True
+HCP0147,Dr. Balhaar Date,General Physician,Tier 3,T003,Nashik,Maharashtra,"Narula, Chaudhry and Sarraf Hospital",33,232,Webinar,False
+HCP0148,Dr. Tanmayi Aurora,Gastroenterologist,Tier 2,T004,Nagpur,Maharashtra,"Dhawan, Rout and Dubey Hospital",26,546,Phone,True
+HCP0149,Dr. Upasna Lanka,Pulmonologist,Tier 3,T005,Delhi,Delhi,Rao-Buch Hospital,16,874,Webinar,True
+HCP0150,Dr. Lajita Nadig,Gastroenterologist,Tier 3,T006,Gurgaon,Haryana,"Sura, Banik and Biswas Hospital",26,475,Email,False
+HCP0151,Dr. Bhavna Karan,Cardiologist,Tier 1,T007,Bengaluru,Karnataka,"Chana, Saraf and Chaudhari Hospital",23,182,Webinar,True
+HCP0152,Dr. Sachi Ganesan,Dermatologist,Tier 3,T008,Hyderabad,Telangana,"Mistry, Balakrishnan and Batra Hospital",2,819,Email,False
+HCP0153,Dr. Daksh Memon,Endocrinologist,Tier 1,T009,Chennai,Tamil Nadu,Prasad-Sankar Hospital,18,426,Webinar,True
+HCP0154,Dr. Yash Wali,Gastroenterologist,Tier 3,T010,Kolkata,West Bengal,Gole-Garde Hospital,26,404,Webinar,True
+HCP0155,Dr. Farhan Raja,Orthopedic Surgeon,Tier 1,T011,Ahmedabad,Gujarat,"Khosla, Tank and Dhar Hospital",20,312,In-person,False
+HCP0156,Dr. Triya Kumar,Diabetologist,Tier 3,T012,Jaipur,Rajasthan,Kumer-Andra Hospital,8,534,Email,False
+HCP0157,Dr. Bhavna Dugar,Cardiologist,Tier 1,T001,Pune,Maharashtra,Sathe LLC Hospital,5,380,Phone,False
+HCP0158,Dr. Panini Krishna,Neurologist,Tier 1,T002,Mumbai,Maharashtra,Mittal-Issac Hospital,35,501,Email,True
+HCP0159,Dr. Vasudha Chhabra,Endocrinologist,Tier 1,T003,Nashik,Maharashtra,Raj PLC Hospital,26,714,Email,False
+HCP0160,Dr. Chakrika Merchant,Orthopedic Surgeon,Tier 1,T004,Nagpur,Maharashtra,Randhawa LLC Hospital,31,733,Phone,False
+HCP0161,Dr. Chandran Taneja,General Physician,Tier 3,T005,Delhi,Delhi,Karpe-Pandey Hospital,31,374,Email,True
+HCP0162,Dr. Ranveer Krishna,Oncologist,Tier 3,T006,Gurgaon,Haryana,"Devan, Chatterjee and Baral Hospital",21,734,Webinar,False
+HCP0163,Dr. Ridhi Bandi,Oncologist,Tier 3,T007,Bengaluru,Karnataka,"Patla, Deep and Chana Hospital",14,473,Webinar,True
+HCP0164,Dr. Eta Sagar,Pulmonologist,Tier 2,T008,Hyderabad,Telangana,Iyer and Sons Hospital,24,668,Phone,False
+HCP0165,Dr. Yachana Mahajan,Cardiologist,Tier 3,T009,Chennai,Tamil Nadu,Kurian Group Hospital,27,361,In-person,True
+HCP0166,Dr. Hamsini Contractor,Orthopedic Surgeon,Tier 3,T010,Kolkata,West Bengal,Borra-Dhaliwal Hospital,20,874,Email,False
+HCP0167,Dr. Mekhala Pau,Pulmonologist,Tier 3,T011,Ahmedabad,Gujarat,Rana Inc Hospital,18,774,Email,True
+HCP0168,Dr. Jatin Sha,Cardiologist,Tier 2,T012,Jaipur,Rajasthan,Lala-Raj Hospital,30,114,Phone,True
+HCP0169,Dr. Hritik Kaur,Diabetologist,Tier 3,T001,Pune,Maharashtra,Bakshi-Narang Hospital,22,845,Webinar,True
+HCP0170,Dr. Dev Shetty,Pulmonologist,Tier 1,T002,Mumbai,Maharashtra,"Mittal, Rege and Dada Hospital",25,623,Phone,True
+HCP0171,Dr. Chakradev Barad,General Physician,Tier 3,T003,Nashik,Maharashtra,Tailor-D’Alia Hospital,32,382,Phone,True
+HCP0172,Dr. Wahab Yogi,Oncologist,Tier 3,T004,Nagpur,Maharashtra,Rama Group Hospital,11,852,Email,False
+HCP0173,Dr. Oni Dubey,Dermatologist,Tier 2,T005,Delhi,Delhi,Chaudhary-Suri Hospital,27,94,Phone,True
+HCP0174,Dr. Ati Bali,Oncologist,Tier 2,T006,Gurgaon,Haryana,"Prabhakar, Kalla and Sawhney Hospital",18,678,Webinar,False
+HCP0175,Dr. Warinder Patil,Diabetologist,Tier 3,T007,Bengaluru,Karnataka,Pillai PLC Hospital,32,105,Phone,True
+HCP0176,Dr. Darsh Rao,Diabetologist,Tier 3,T008,Hyderabad,Telangana,Gupta-Das Hospital,31,797,Phone,False
+HCP0177,Dr. Gavin Kala,Diabetologist,Tier 1,T009,Chennai,Tamil Nadu,"Bail, Bedi and Nath Hospital",4,391,Webinar,True
+HCP0178,Dr. Jeremiah Jha,Diabetologist,Tier 2,T010,Kolkata,West Bengal,Johal PLC Hospital,10,477,Webinar,False
+HCP0179,Dr. Viraj Narasimhan,Dermatologist,Tier 2,T011,Ahmedabad,Gujarat,Agate LLC Hospital,11,504,In-person,False
+HCP0180,Dr. Kalpit Zachariah,Orthopedic Surgeon,Tier 2,T012,Jaipur,Rajasthan,Ghosh-Choudhary Hospital,19,113,Phone,True
+HCP0181,Dr. Karan Aurora,Oncologist,Tier 2,T001,Pune,Maharashtra,Khanna-Naik Hospital,17,451,In-person,False
+HCP0182,Dr. Owen Lanka,Dermatologist,Tier 3,T002,Mumbai,Maharashtra,Date Ltd Hospital,24,142,Webinar,False
+HCP0183,Dr. Ishaan Bhatt,Pulmonologist,Tier 3,T003,Nashik,Maharashtra,Sen-Pathak Hospital,31,173,Email,True
+HCP0184,Dr. Siya Thakur,Cardiologist,Tier 3,T004,Nagpur,Maharashtra,Bassi Ltd Hospital,17,208,Email,True
+HCP0185,Dr. Tara Balasubramanian,Dermatologist,Tier 2,T005,Delhi,Delhi,Srinivas Group Hospital,15,318,Phone,True
+HCP0186,Dr. Hritik Swaminathan,Orthopedic Surgeon,Tier 1,T006,Gurgaon,Haryana,"Sawhney, Borah and Buch Hospital",11,213,Phone,True
+HCP0187,Dr. Manbir Bhatti,Diabetologist,Tier 3,T007,Bengaluru,Karnataka,Maharaj PLC Hospital,3,214,In-person,False
+HCP0188,Dr. Lakshmi Wali,Pulmonologist,Tier 3,T008,Hyderabad,Telangana,Setty-Tiwari Hospital,3,258,Phone,True
+HCP0189,Dr. Hardik Contractor,Endocrinologist,Tier 3,T009,Chennai,Tamil Nadu,"Kale, Sani and Seth Hospital",35,196,In-person,False
+HCP0190,Dr. Odika Nori,Oncologist,Tier 3,T010,Kolkata,West Bengal,Rastogi-Sagar Hospital,34,687,In-person,False
+HCP0191,Dr. Dhriti Sane,Dermatologist,Tier 2,T011,Ahmedabad,Gujarat,Kumer-Prasad Hospital,4,824,Phone,False
+HCP0192,Dr. Urvi Bhavsar,Cardiologist,Tier 1,T012,Jaipur,Rajasthan,Chada Inc Hospital,32,491,Webinar,True
+HCP0193,Dr. Gopal Pradhan,Oncologist,Tier 3,T001,Pune,Maharashtra,Bhasin PLC Hospital,30,155,In-person,False
+HCP0194,Dr. Jason Roy,Orthopedic Surgeon,Tier 1,T002,Mumbai,Maharashtra,Sampath-Behl Hospital,10,361,Phone,False
+HCP0195,Dr. Devika Pandey,Orthopedic Surgeon,Tier 2,T003,Nashik,Maharashtra,Tripathi and Sons Hospital,31,597,Webinar,True
+HCP0196,Dr. Vasatika Kapur,Diabetologist,Tier 3,T004,Nagpur,Maharashtra,Palla PLC Hospital,15,520,Webinar,True
+HCP0197,Dr. Ishwar Mallick,Neurologist,Tier 2,T005,Delhi,Delhi,"Kara, Sanghvi and Bal Hospital",31,488,Webinar,True
+HCP0198,Dr. Ayush Gole,Gastroenterologist,Tier 2,T006,Gurgaon,Haryana,More-Nori Hospital,18,463,Email,False
+HCP0199,Dr. Abeer Golla,Diabetologist,Tier 1,T007,Bengaluru,Karnataka,Rattan Inc Hospital,7,175,Webinar,True
+HCP0200,Dr. Azaan Chand,Gastroenterologist,Tier 3,T008,Hyderabad,Telangana,"Wali, Kale and Puri Hospital",5,680,Phone,True
+HCP0201,Dr. Sudiksha Om,Neurologist,Tier 2,T009,Chennai,Tamil Nadu,Pingle LLC Hospital,29,818,In-person,False
+HCP0202,Dr. Frado Ben,Orthopedic Surgeon,Tier 2,T010,Kolkata,West Bengal,Dugar PLC Hospital,8,671,Email,True
+HCP0203,Dr. Finn Magar,Oncologist,Tier 2,T011,Ahmedabad,Gujarat,Samra-Sunder Hospital,8,438,Phone,True
+HCP0204,Dr. Oeshi Mahajan,General Physician,Tier 3,T012,Jaipur,Rajasthan,Vala Inc Hospital,29,654,In-person,False
+HCP0205,Dr. Qushi Choudhry,Cardiologist,Tier 1,T001,Pune,Maharashtra,Sur-Vyas Hospital,21,427,Phone,True
+HCP0206,Dr. Chakradev Kannan,Endocrinologist,Tier 3,T002,Mumbai,Maharashtra,Bhakta-Amble Hospital,27,151,Email,True
+HCP0207,Dr. Charvi Kakar,Diabetologist,Tier 3,T003,Nashik,Maharashtra,Kumer LLC Hospital,15,465,Webinar,False
+HCP0208,Dr. Jagdish Amble,Gastroenterologist,Tier 1,T004,Nagpur,Maharashtra,Sani-Gill Hospital,21,818,Phone,True
+HCP0209,Dr. Lajita Walia,Cardiologist,Tier 1,T005,Delhi,Delhi,"Karpe, Tella and Pandya Hospital",5,770,In-person,False
+HCP0210,Dr. Mekhala Basak,Oncologist,Tier 3,T006,Gurgaon,Haryana,Bahl-Sharaf Hospital,33,701,Webinar,False
+HCP0211,Dr. Dhriti Sanghvi,General Physician,Tier 2,T007,Bengaluru,Karnataka,"Ravel, Sahni and Mann Hospital",34,196,Phone,False
+HCP0212,Dr. Nidhi Bail,Diabetologist,Tier 2,T008,Hyderabad,Telangana,Garg-Sharma Hospital,33,619,Phone,True
+HCP0213,Dr. Gaurang Sarkar,Pulmonologist,Tier 2,T009,Chennai,Tamil Nadu,Kohli Group Hospital,5,87,Email,False
+HCP0214,Dr. Farhan Randhawa,Pulmonologist,Tier 3,T010,Kolkata,West Bengal,Nori-Kant Hospital,18,376,Phone,True
+HCP0215,Dr. Om Bose,Cardiologist,Tier 2,T011,Ahmedabad,Gujarat,"Comar, Wali and Uppal Hospital",29,259,Email,False
+HCP0216,Dr. Ikshita Panchal,Dermatologist,Tier 3,T012,Jaipur,Rajasthan,"Divan, Keer and Chauhan Hospital",34,652,Phone,True
+HCP0217,Dr. Aahana Hora,Neurologist,Tier 3,T001,Pune,Maharashtra,Dua Ltd Hospital,4,526,In-person,False
+HCP0218,Dr. Peter Tak,Diabetologist,Tier 3,T002,Mumbai,Maharashtra,Sen-Naidu Hospital,29,667,Webinar,False
+HCP0219,Dr. Matthew Sarraf,General Physician,Tier 1,T003,Nashik,Maharashtra,Singh Group Hospital,3,412,Email,False
+HCP0220,Dr. Anvi Bhalla,Gastroenterologist,Tier 1,T004,Nagpur,Maharashtra,Tripathi-Borah Hospital,8,329,Webinar,False
+HCP0221,Dr. Triya Seth,Dermatologist,Tier 1,T005,Delhi,Delhi,Bhandari LLC Hospital,21,843,Phone,True
+HCP0222,Dr. Faraj Chana,Gastroenterologist,Tier 3,T006,Gurgaon,Haryana,"Tripathi, Rajagopalan and Shere Hospital",6,602,In-person,True
+HCP0223,Dr. Shivani Guha,Gastroenterologist,Tier 2,T007,Bengaluru,Karnataka,Soni-Thaker Hospital,11,321,In-person,True
+HCP0224,Dr. David Seshadri,General Physician,Tier 1,T008,Hyderabad,Telangana,Oza Ltd Hospital,11,858,In-person,True
+HCP0225,Dr. Yamini Gera,Oncologist,Tier 2,T009,Chennai,Tamil Nadu,Kota Ltd Hospital,30,777,Phone,False
+HCP0226,Dr. Reva Viswanathan,Endocrinologist,Tier 2,T010,Kolkata,West Bengal,"Dutt, Patla and Pradhan Hospital",32,532,Phone,False
+HCP0227,Dr. Lila Rege,Orthopedic Surgeon,Tier 1,T011,Ahmedabad,Gujarat,Ben-Natt Hospital,34,155,Phone,False
+HCP0228,Dr. Forum Chandra,Oncologist,Tier 1,T012,Jaipur,Rajasthan,"Raju, Mander and Krishnan Hospital",25,373,In-person,True
+HCP0229,Dr. Gauri Bumb,Orthopedic Surgeon,Tier 3,T001,Pune,Maharashtra,"Dhaliwal, Palla and Mukherjee Hospital",26,553,In-person,False
+HCP0230,Dr. Kai Chad,Orthopedic Surgeon,Tier 3,T002,Mumbai,Maharashtra,Puri-Narasimhan Hospital,22,699,Webinar,True
+HCP0231,Dr. Girik Sampath,Cardiologist,Tier 2,T003,Nashik,Maharashtra,"Pathak, Badami and Patil Hospital",23,811,In-person,True
+HCP0232,Dr. Pranit Kala,Cardiologist,Tier 2,T004,Nagpur,Maharashtra,Sunder-Handa Hospital,30,529,Email,False
+HCP0233,Dr. Laksh Dubey,Gastroenterologist,Tier 3,T005,Delhi,Delhi,Merchant Inc Hospital,26,498,Phone,True
+HCP0234,Dr. Gayathri Deep,Gastroenterologist,Tier 1,T006,Gurgaon,Haryana,"Puri, Dube and Gaba Hospital",8,651,Webinar,False
+HCP0235,Dr. Noah Sarma,General Physician,Tier 3,T007,Bengaluru,Karnataka,Roy LLC Hospital,11,421,In-person,True
+HCP0236,Dr. Sachi Mane,Gastroenterologist,Tier 2,T008,Hyderabad,Telangana,"Sen, Kaur and Walla Hospital",27,212,In-person,False
+HCP0237,Dr. Dayamai Singh,Dermatologist,Tier 2,T009,Chennai,Tamil Nadu,Pillai Ltd Hospital,23,210,In-person,False
+HCP0238,Dr. Triya Manda,Dermatologist,Tier 2,T010,Kolkata,West Bengal,Thakkar-Wable Hospital,25,396,Email,True
+HCP0239,Dr. Neel Iyengar,Gastroenterologist,Tier 3,T011,Ahmedabad,Gujarat,"Devi, Krishna and Ben Hospital",33,276,Email,True
+HCP0240,Dr. Kamya Chauhan,Endocrinologist,Tier 1,T012,Jaipur,Rajasthan,"Varty, Dash and Mane Hospital",8,599,In-person,False
+HCP0241,Dr. Naveen Mahajan,Orthopedic Surgeon,Tier 1,T001,Pune,Maharashtra,Varghese-Din Hospital,26,237,Email,True
+HCP0242,Dr. Gavin Kapadia,Orthopedic Surgeon,Tier 3,T002,Mumbai,Maharashtra,Palla-Bala Hospital,12,818,Webinar,True
+HCP0243,Dr. Chatresh Randhawa,Neurologist,Tier 2,T003,Nashik,Maharashtra,"Prakash, Keer and Raju Hospital",17,534,Phone,False
+HCP0244,Dr. Kavya Kapur,Pulmonologist,Tier 2,T004,Nagpur,Maharashtra,Nagar Inc Hospital,21,883,Webinar,True
+HCP0245,Dr. Madhav Devan,Gastroenterologist,Tier 3,T005,Delhi,Delhi,Mangat Group Hospital,30,552,Phone,False
+HCP0246,Dr. Upasna Sen,Dermatologist,Tier 2,T006,Gurgaon,Haryana,"Ahluwalia, Buch and Bahl Hospital",12,284,Email,False
+HCP0247,Dr. Tanveer Doctor,Cardiologist,Tier 3,T007,Bengaluru,Karnataka,"Wable, Sampath and Choudhry Hospital",25,647,In-person,True
+HCP0248,Dr. Wazir Mitra,General Physician,Tier 1,T008,Hyderabad,Telangana,Batta and Sons Hospital,12,359,Webinar,True
+HCP0249,Dr. Tanvi Bhatnagar,Neurologist,Tier 1,T009,Chennai,Tamil Nadu,Tata PLC Hospital,16,541,Phone,True
+HCP0250,Dr. Yutika Khurana,Neurologist,Tier 1,T010,Kolkata,West Bengal,"Dhawan, Manne and Sanghvi Hospital",34,462,Email,False
+HCP0251,Dr. Ira Khosla,Diabetologist,Tier 2,T011,Ahmedabad,Gujarat,"Saha, Grover and Chada Hospital",3,406,In-person,False
+HCP0252,Dr. Ekansh Vora,Endocrinologist,Tier 1,T012,Jaipur,Rajasthan,"Tripathi, Tripathi and Bahri Hospital",20,563,Email,False
+HCP0253,Dr. Upma Bassi,Oncologist,Tier 3,T001,Pune,Maharashtra,"Ram, Prakash and Kulkarni Hospital",7,99,Phone,True
+HCP0254,Dr. Ishanvi Bir,Endocrinologist,Tier 2,T002,Mumbai,Maharashtra,Khosla-Chawla Hospital,35,513,In-person,False
+HCP0255,Dr. Kiaan Basu,Pulmonologist,Tier 2,T003,Nashik,Maharashtra,Nigam-Gill Hospital,5,324,Webinar,False
+HCP0256,Dr. Varenya Gopal,Diabetologist,Tier 1,T004,Nagpur,Maharashtra,Bhatnagar Ltd Hospital,33,691,In-person,True
+HCP0257,Dr. Balhaar Memon,Endocrinologist,Tier 2,T005,Delhi,Delhi,Bassi and Sons Hospital,2,709,Phone,True
+HCP0258,Dr. Diya Mukherjee,Orthopedic Surgeon,Tier 2,T006,Gurgaon,Haryana,"Rao, Solanki and Kulkarni Hospital",7,616,Phone,True
+HCP0259,Dr. Rayaan Mangal,Dermatologist,Tier 2,T007,Bengaluru,Karnataka,Batta-Narula Hospital,34,647,In-person,False
+HCP0260,Dr. Jeet Pillai,Oncologist,Tier 1,T008,Hyderabad,Telangana,Ratta-Sarraf Hospital,26,462,Phone,True
+HCP0261,Dr. Harinakshi Grover,Gastroenterologist,Tier 3,T009,Chennai,Tamil Nadu,Tank-Pillai Hospital,24,326,In-person,False
+HCP0262,Dr. Fitan Samra,Endocrinologist,Tier 1,T010,Kolkata,West Bengal,Sani PLC Hospital,23,738,Email,False
+HCP0263,Dr. Chaaya Nagi,Oncologist,Tier 3,T011,Ahmedabad,Gujarat,Buch LLC Hospital,10,144,Webinar,True
+HCP0264,Dr. Damini Sehgal,General Physician,Tier 2,T012,Jaipur,Rajasthan,"Sandhu, Ganesan and Sawhney Hospital",14,122,Phone,False
+HCP0265,Dr. Sanya Basak,Dermatologist,Tier 2,T001,Pune,Maharashtra,"Pandit, Saran and Maharaj Hospital",32,339,In-person,True
+HCP0266,Dr. Falan Ravi,General Physician,Tier 2,T002,Mumbai,Maharashtra,Varghese-Dutta Hospital,5,751,Phone,False
+HCP0267,Dr. Luke Sarma,Diabetologist,Tier 3,T003,Nashik,Maharashtra,Date Inc Hospital,29,489,Webinar,False
+HCP0268,Dr. Jeevika Pathak,Gastroenterologist,Tier 3,T004,Nagpur,Maharashtra,Bali-Dube Hospital,33,788,Webinar,False
+HCP0269,Dr. Kamala Prabhu,Dermatologist,Tier 2,T005,Delhi,Delhi,Bose-Devan Hospital,7,824,Webinar,True
+HCP0270,Dr. Mitali Murthy,Neurologist,Tier 3,T006,Gurgaon,Haryana,"Mallick, Krish and Comar Hospital",13,638,Phone,False
+HCP0271,Dr. Quincy Tata,Diabetologist,Tier 1,T007,Bengaluru,Karnataka,"Ram, Dalal and Lala Hospital",20,393,Webinar,False
+HCP0272,Dr. Sanaya Kala,Endocrinologist,Tier 3,T008,Hyderabad,Telangana,"Mangal, Swaminathan and Iyengar Hospital",24,537,In-person,False
+HCP0273,Dr. Krishna Borah,Orthopedic Surgeon,Tier 3,T009,Chennai,Tamil Nadu,Gera-Saxena Hospital,19,734,In-person,True
+HCP0274,Dr. Ekaja Palan,Neurologist,Tier 2,T010,Kolkata,West Bengal,"Bhattacharyya, Mannan and Mital Hospital",12,111,Email,False
+HCP0275,Dr. Owen Pathak,Cardiologist,Tier 1,T011,Ahmedabad,Gujarat,"Kapur, Dara and Iyer Hospital",17,877,Phone,False
+HCP0276,Dr. Warjas Tak,Neurologist,Tier 3,T012,Jaipur,Rajasthan,Patel PLC Hospital,4,699,Email,False
+HCP0277,Dr. Unni Dayal,Gastroenterologist,Tier 2,T001,Pune,Maharashtra,"Chadha, Bhatti and More Hospital",6,667,Email,False
+HCP0278,Dr. Varenya Vora,Neurologist,Tier 2,T002,Mumbai,Maharashtra,Rout-Borah Hospital,19,335,In-person,True
+HCP0279,Dr. Edhitha Borah,Endocrinologist,Tier 2,T003,Nashik,Maharashtra,Shukla-Varughese Hospital,26,655,In-person,False
+HCP0280,Dr. Kabir Gopal,General Physician,Tier 3,T004,Nagpur,Maharashtra,Sant PLC Hospital,15,706,Phone,False
+HCP0281,Dr. Jeet Vasa,Pulmonologist,Tier 1,T005,Delhi,Delhi,Modi and Sons Hospital,6,542,Email,False
+HCP0282,Dr. Ekantika Kar,Diabetologist,Tier 3,T006,Gurgaon,Haryana,Venkataraman-Mander Hospital,22,763,Phone,True
+HCP0283,Dr. Zashil Hegde,Dermatologist,Tier 2,T007,Bengaluru,Karnataka,"Maharaj, Dass and Mitter Hospital",21,241,Email,False
+HCP0284,Dr. Yadavi Ganguly,Dermatologist,Tier 2,T008,Hyderabad,Telangana,"Dube, Garg and Nazareth Hospital",14,891,Email,True
+HCP0285,Dr. Ayush Bumb,Oncologist,Tier 1,T009,Chennai,Tamil Nadu,Lanka Ltd Hospital,25,558,Email,True
+HCP0286,Dr. Omaja Balasubramanian,Diabetologist,Tier 2,T010,Kolkata,West Bengal,Mann-Mittal Hospital,32,618,Webinar,False
+HCP0287,Dr. Yash Ravi,Orthopedic Surgeon,Tier 1,T011,Ahmedabad,Gujarat,Setty-Bora Hospital,22,737,In-person,False
+HCP0288,Dr. Nakul Sarraf,Oncologist,Tier 3,T012,Jaipur,Rajasthan,Sule-Shetty Hospital,24,211,Email,True
+HCP0289,Dr. Harini Dhawan,Neurologist,Tier 2,T001,Pune,Maharashtra,Nagar-Pai Hospital,5,207,Email,False
+HCP0290,Dr. Kalpit Prabhakar,Endocrinologist,Tier 1,T002,Mumbai,Maharashtra,"Cherian, Nagar and Khurana Hospital",16,434,Phone,True
+HCP0291,Dr. Jason Loke,General Physician,Tier 1,T003,Nashik,Maharashtra,Kota-Dhaliwal Hospital,19,208,Phone,True
+HCP0292,Dr. Chandresh Mannan,Dermatologist,Tier 3,T004,Nagpur,Maharashtra,Sahota-Kothari Hospital,11,255,Phone,True
+HCP0293,Dr. Falak Munshi,Cardiologist,Tier 1,T005,Delhi,Delhi,Dutta Group Hospital,18,746,Email,False
+HCP0294,Dr. Wishi Morar,Orthopedic Surgeon,Tier 3,T006,Gurgaon,Haryana,Bajaj-Chana Hospital,33,722,Phone,False
+HCP0295,Dr. Yashasvi Shankar,Oncologist,Tier 2,T007,Bengaluru,Karnataka,Kale PLC Hospital,27,384,Webinar,True
+HCP0296,Dr. Chanakya Bedi,Cardiologist,Tier 1,T008,Hyderabad,Telangana,Talwar-Singhal Hospital,28,575,Webinar,True
+HCP0297,Dr. Abhiram Chokshi,Gastroenterologist,Tier 3,T009,Chennai,Tamil Nadu,Desai-Lalla Hospital,22,815,Phone,False
+HCP0298,Dr. Neha Pau,Neurologist,Tier 1,T010,Kolkata,West Bengal,Rattan Inc Hospital,25,607,In-person,False
+HCP0299,Dr. Janani Mani,Pulmonologist,Tier 2,T011,Ahmedabad,Gujarat,Raju PLC Hospital,19,540,Email,True
+HCP0300,Dr. Ati Dani,Diabetologist,Tier 1,T012,Jaipur,Rajasthan,Chatterjee Group Hospital,26,710,Webinar,True
+HCP0301,Dr. Harinakshi Pau,Endocrinologist,Tier 3,T001,Pune,Maharashtra,Issac PLC Hospital,22,274,Email,False
+HCP0302,Dr. Xiti Baria,Dermatologist,Tier 2,T002,Mumbai,Maharashtra,Barad and Sons Hospital,21,589,In-person,True
+HCP0303,Dr. Urvi Venkataraman,Neurologist,Tier 2,T003,Nashik,Maharashtra,Dixit-Varma Hospital,17,300,Phone,True
+HCP0304,Dr. Falak Nagar,Cardiologist,Tier 2,T004,Nagpur,Maharashtra,Ramaswamy PLC Hospital,32,372,In-person,True
+HCP0305,Dr. Gayathri Tripathi,Neurologist,Tier 1,T005,Delhi,Delhi,"Walia, Suri and Mistry Hospital",18,824,Phone,False
+HCP0306,Dr. Anay Pillay,Gastroenterologist,Tier 1,T006,Gurgaon,Haryana,Choudhary-Saha Hospital,5,663,Email,False
+HCP0307,Dr. Avi Som,Dermatologist,Tier 2,T007,Bengaluru,Karnataka,Kari-Behl Hospital,26,596,Webinar,False
+HCP0308,Dr. Onkar Viswanathan,Orthopedic Surgeon,Tier 3,T008,Hyderabad,Telangana,"Rai, Divan and Kibe Hospital",9,211,In-person,False
+HCP0309,Dr. Imaran Halder,Gastroenterologist,Tier 3,T009,Chennai,Tamil Nadu,Sastry LLC Hospital,23,651,Phone,True
+HCP0310,Dr. Max Sachar,Pulmonologist,Tier 3,T010,Kolkata,West Bengal,"Jani, Roy and Thaker Hospital",27,592,In-person,True
+HCP0311,Dr. David Devi,Cardiologist,Tier 1,T011,Ahmedabad,Gujarat,"Johal, Nair and Sridhar Hospital",23,565,Webinar,True
+HCP0312,Dr. Dipta Ghose,Orthopedic Surgeon,Tier 3,T012,Jaipur,Rajasthan,Walia-Oommen Hospital,10,415,Phone,True
+HCP0313,Dr. Aishani Sule,Neurologist,Tier 3,T001,Pune,Maharashtra,Koshy LLC Hospital,21,687,Phone,False
+HCP0314,Dr. Umang Mishra,Orthopedic Surgeon,Tier 2,T002,Mumbai,Maharashtra,Johal-Suresh Hospital,3,457,Phone,True
+HCP0315,Dr. Varsha Palla,Neurologist,Tier 3,T003,Nashik,Maharashtra,"Mahal, Mani and Dara Hospital",3,691,Webinar,False
+HCP0316,Dr. Megha Pai,Orthopedic Surgeon,Tier 3,T004,Nagpur,Maharashtra,Mannan Inc Hospital,5,677,Webinar,True
+HCP0317,Dr. Farhan Pal,Dermatologist,Tier 3,T005,Delhi,Delhi,Kunda-Srinivas Hospital,26,231,Email,True
+HCP0318,Dr. Saksham Yohannan,Orthopedic Surgeon,Tier 3,T006,Gurgaon,Haryana,Magar-Devan Hospital,9,275,In-person,False
+HCP0319,Dr. Wriddhish Kibe,Gastroenterologist,Tier 2,T007,Bengaluru,Karnataka,Wali and Sons Hospital,28,787,Email,False
+HCP0320,Dr. Charles Chaudhry,Dermatologist,Tier 3,T008,Hyderabad,Telangana,Narayanan-Sodhi Hospital,32,833,In-person,True
+HCP0321,Dr. Laksh Ahluwalia,Dermatologist,Tier 2,T009,Chennai,Tamil Nadu,"Dugar, Ray and Soni Hospital",22,758,Webinar,False
+HCP0322,Dr. Ryan Mani,Gastroenterologist,Tier 3,T010,Kolkata,West Bengal,Mangal-Bhargava Hospital,31,625,Phone,False
+HCP0323,Dr. Vincent Warrior,General Physician,Tier 3,T011,Ahmedabad,Gujarat,"Barad, Gill and Sahni Hospital",14,332,Phone,False
+HCP0324,Dr. Balhaar Ranganathan,Pulmonologist,Tier 3,T012,Jaipur,Rajasthan,Grewal-Mann Hospital,21,869,Phone,True
+HCP0325,Dr. Aditya Misra,Oncologist,Tier 2,T001,Pune,Maharashtra,"Chhabra, Nayak and Mane Hospital",24,653,Phone,False
+HCP0326,Dr. Wakeeta Desai,Diabetologist,Tier 3,T002,Mumbai,Maharashtra,"Sidhu, Mahajan and Hans Hospital",26,484,Phone,True
+HCP0327,Dr. Ganga Gaba,General Physician,Tier 1,T003,Nashik,Maharashtra,"Shanker, Kurian and Grewal Hospital",7,434,Webinar,False
+HCP0328,Dr. Geetika Merchant,Oncologist,Tier 2,T004,Nagpur,Maharashtra,"Hans, Gill and Ravi Hospital",19,655,Phone,True
+HCP0329,Dr. Yutika Narang,Diabetologist,Tier 3,T005,Delhi,Delhi,Rattan Ltd Hospital,17,328,In-person,True
+HCP0330,Dr. Qasim Dey,Pulmonologist,Tier 1,T006,Gurgaon,Haryana,Naik-Kothari Hospital,28,418,Webinar,True
+HCP0331,Dr. Advika Rajagopal,Endocrinologist,Tier 1,T007,Bengaluru,Karnataka,Sekhon LLC Hospital,12,496,Webinar,False
+HCP0332,Dr. Chasmum Apte,Pulmonologist,Tier 3,T008,Hyderabad,Telangana,Parsa-Keer Hospital,20,408,Phone,True
+HCP0333,Dr. Jagat Shroff,Diabetologist,Tier 3,T009,Chennai,Tamil Nadu,Dutta-Ravi Hospital,16,627,In-person,True
+HCP0334,Dr. Jacob Merchant,Neurologist,Tier 3,T010,Kolkata,West Bengal,Kant-Kanda Hospital,13,117,Webinar,False
+HCP0335,Dr. Vanya Dua,Endocrinologist,Tier 3,T011,Ahmedabad,Gujarat,Prakash-Sagar Hospital,20,118,In-person,False
+HCP0336,Dr. Tejas Kota,Orthopedic Surgeon,Tier 3,T012,Jaipur,Rajasthan,"Bumb, Vora and Sekhon Hospital",23,371,Webinar,False
+HCP0337,Dr. Faras Choudhury,Endocrinologist,Tier 3,T001,Pune,Maharashtra,Tiwari and Sons Hospital,31,359,Email,True
+HCP0338,Dr. Nitesh Narang,Gastroenterologist,Tier 1,T002,Mumbai,Maharashtra,"Sathe, Dada and Jha Hospital",31,743,Phone,True
+HCP0339,Dr. Gavin Uppal,Cardiologist,Tier 3,T003,Nashik,Maharashtra,Bhakta-Setty Hospital,20,661,Email,True
+HCP0340,Dr. Yochana Sagar,Orthopedic Surgeon,Tier 3,T004,Nagpur,Maharashtra,Bhardwaj-Shere Hospital,27,517,Phone,True
+HCP0341,Dr. Anthony Randhawa,Neurologist,Tier 3,T005,Delhi,Delhi,Aggarwal-Kamdar Hospital,13,223,Webinar,False
+HCP0342,Dr. Chakradev Sampath,Pulmonologist,Tier 1,T006,Gurgaon,Haryana,Bhatt-Bhasin Hospital,26,321,Webinar,False
+HCP0343,Dr. Urmi Balay,Gastroenterologist,Tier 2,T007,Bengaluru,Karnataka,Rege-Gole Hospital,2,347,Phone,True
+HCP0344,Dr. Osha Prasad,Cardiologist,Tier 3,T008,Hyderabad,Telangana,Sen-Purohit Hospital,31,394,Email,False
+HCP0345,Dr. Faris Zacharia,Dermatologist,Tier 3,T009,Chennai,Tamil Nadu,Pall Inc Hospital,21,786,In-person,False
+HCP0346,Dr. Maya Wadhwa,Gastroenterologist,Tier 3,T010,Kolkata,West Bengal,Kapoor Inc Hospital,16,216,Webinar,True
+HCP0347,Dr. Chanchal Sheth,Oncologist,Tier 3,T011,Ahmedabad,Gujarat,"Samra, Wali and Raghavan Hospital",25,505,Webinar,True
+HCP0348,Dr. Yug Sharma,Pulmonologist,Tier 3,T012,Jaipur,Rajasthan,Dubey-Majumdar Hospital,7,618,Webinar,False
+HCP0349,Dr. Isaiah Balay,Diabetologist,Tier 3,T001,Pune,Maharashtra,"Saini, Babu and Khosla Hospital",9,143,Email,True
+HCP0350,Dr. Ekalinga Chaudhuri,Endocrinologist,Tier 2,T002,Mumbai,Maharashtra,"Bandi, Sekhon and Bava Hospital",35,532,In-person,True
+HCP0351,Dr. Chaitanya Ratti,Orthopedic Surgeon,Tier 2,T003,Nashik,Maharashtra,Kaur-Zacharia Hospital,34,536,In-person,False
+HCP0352,Dr. Daksh Dey,Endocrinologist,Tier 2,T004,Nagpur,Maharashtra,"Mann, Kaur and Nagar Hospital",31,657,In-person,False
+HCP0353,Dr. Warjas Mittal,General Physician,Tier 3,T005,Delhi,Delhi,Verma and Sons Hospital,27,340,In-person,True
+HCP0354,Dr. Charita Maharaj,Orthopedic Surgeon,Tier 1,T006,Gurgaon,Haryana,Gill Ltd Hospital,29,432,In-person,True
+HCP0355,Dr. Warhi Batta,Diabetologist,Tier 3,T007,Bengaluru,Karnataka,Raj-Vohra Hospital,32,112,Phone,False
+HCP0356,Dr. Omaja Rege,Endocrinologist,Tier 3,T008,Hyderabad,Telangana,Mital Group Hospital,28,463,Webinar,False
+HCP0357,Dr. Urvashi Khosla,Neurologist,Tier 2,T009,Chennai,Tamil Nadu,Mital Ltd Hospital,10,749,Phone,True
+HCP0358,Dr. Ubika Bhardwaj,Endocrinologist,Tier 3,T010,Kolkata,West Bengal,"Sachar, Saha and Wagle Hospital",27,621,Email,True
+HCP0359,Dr. Lipika Kibe,Cardiologist,Tier 3,T011,Ahmedabad,Gujarat,Jani-Narayanan Hospital,21,554,Webinar,False
+HCP0360,Dr. Shivani Prabhakar,Pulmonologist,Tier 2,T012,Jaipur,Rajasthan,Wason Ltd Hospital,24,238,Phone,True
+HCP0361,Dr. Charan Loyal,Diabetologist,Tier 1,T001,Pune,Maharashtra,Baral-Bora Hospital,28,709,In-person,True
+HCP0362,Dr. Teerth Srinivas,Pulmonologist,Tier 1,T002,Mumbai,Maharashtra,Natarajan LLC Hospital,4,537,In-person,True
+HCP0363,Dr. Siddharth Gupta,Cardiologist,Tier 2,T003,Nashik,Maharashtra,"Dalal, Srinivas and Kibe Hospital",16,632,Email,True
+HCP0364,Dr. Mekhala Khatri,Endocrinologist,Tier 2,T004,Nagpur,Maharashtra,"Nagy, Mandal and Rai Hospital",20,319,Phone,False
+HCP0365,Dr. Jagrati Morar,Pulmonologist,Tier 2,T005,Delhi,Delhi,Parsa-Varghese Hospital,11,756,Email,False
+HCP0366,Dr. Unnati Chaudhari,General Physician,Tier 2,T006,Gurgaon,Haryana,"Singh, Nagarajan and Jani Hospital",13,721,Webinar,False
+HCP0367,Dr. Dhriti Sachdev,Cardiologist,Tier 3,T007,Bengaluru,Karnataka,Kant Ltd Hospital,26,884,Phone,False
+HCP0368,Dr. Amol Lal,Neurologist,Tier 1,T008,Hyderabad,Telangana,"Sahni, Merchant and Dua Hospital",26,268,Webinar,True
+HCP0369,Dr. Forum Karpe,Pulmonologist,Tier 2,T009,Chennai,Tamil Nadu,Korpal-Tata Hospital,11,554,In-person,False
+HCP0370,Dr. Aarini Suresh,Neurologist,Tier 3,T010,Kolkata,West Bengal,"Swaminathan, Sharma and Ganguly Hospital",10,477,Email,False
+HCP0371,Dr. Omkaar Dey,Pulmonologist,Tier 2,T011,Ahmedabad,Gujarat,"Suresh, Gour and Bhargava Hospital",7,540,Phone,True
+HCP0372,Dr. Falan Bava,Dermatologist,Tier 3,T012,Jaipur,Rajasthan,Sachar and Sons Hospital,14,132,Phone,False
+HCP0373,Dr. Ekansh Dora,Orthopedic Surgeon,Tier 3,T001,Pune,Maharashtra,Kamdar PLC Hospital,6,272,Email,False
+HCP0374,Dr. Kashvi Bhasin,Pulmonologist,Tier 3,T002,Mumbai,Maharashtra,"Subramanian, Sura and Babu Hospital",23,390,In-person,True
+HCP0375,Dr. Nisha Arora,Pulmonologist,Tier 3,T003,Nashik,Maharashtra,Wagle Ltd Hospital,9,844,Webinar,True
+HCP0376,Dr. Bhavini Badal,Orthopedic Surgeon,Tier 3,T004,Nagpur,Maharashtra,"Sani, Gola and Chhabra Hospital",27,325,Phone,False
+HCP0377,Dr. Manthan Khosla,Neurologist,Tier 2,T005,Delhi,Delhi,Vyas LLC Hospital,24,395,Phone,False
+HCP0378,Dr. Amara Ranganathan,Dermatologist,Tier 3,T006,Gurgaon,Haryana,Prakash Group Hospital,31,180,Webinar,False
+HCP0379,Dr. Yagnesh Kara,Pulmonologist,Tier 2,T007,Bengaluru,Karnataka,Buch-Balay Hospital,28,126,Email,True
+HCP0380,Dr. Nidra Raghavan,Cardiologist,Tier 2,T008,Hyderabad,Telangana,Soni-Bhalla Hospital,28,382,Email,True
+HCP0381,Dr. Onveer Butala,Gastroenterologist,Tier 2,T009,Chennai,Tamil Nadu,Saraf-Narula Hospital,17,591,Phone,False
+HCP0382,Dr. Brijesh Karpe,Oncologist,Tier 3,T010,Kolkata,West Bengal,Soman LLC Hospital,33,551,Email,False
+HCP0383,Dr. Falan Mand,Endocrinologist,Tier 1,T011,Ahmedabad,Gujarat,"Bali, Gola and Murty Hospital",33,268,In-person,True
+HCP0384,Dr. Sarthak Dhawan,Diabetologist,Tier 3,T012,Jaipur,Rajasthan,"Rao, Bose and Mistry Hospital",5,862,In-person,False
+HCP0385,Dr. Wridesh Ramachandran,Endocrinologist,Tier 3,T001,Pune,Maharashtra,"Zachariah, Narula and Rajagopalan Hospital",16,149,Email,True
+HCP0386,Dr. Farhan Tella,Pulmonologist,Tier 2,T002,Mumbai,Maharashtra,"Pal, Bera and Chaudhari Hospital",25,141,Webinar,False
+HCP0387,Dr. Vincent Borra,Cardiologist,Tier 1,T003,Nashik,Maharashtra,Ranganathan-Narain Hospital,28,92,In-person,False
+HCP0388,Dr. Anjali Seshadri,Dermatologist,Tier 3,T004,Nagpur,Maharashtra,Kari-Parekh Hospital,3,594,Webinar,True
+HCP0389,Dr. Rachana Grewal,Diabetologist,Tier 3,T005,Delhi,Delhi,"Rai, Chada and Merchant Hospital",35,232,Email,True
+HCP0390,Dr. Ethan Butala,Orthopedic Surgeon,Tier 2,T006,Gurgaon,Haryana,Dube-Rai Hospital,24,353,Webinar,True
+HCP0391,Dr. Lopa Nadig,Gastroenterologist,Tier 3,T007,Bengaluru,Karnataka,Chhabra-Chand Hospital,31,658,Email,True
+HCP0392,Dr. Darika Saxena,General Physician,Tier 3,T008,Hyderabad,Telangana,Madan-Chaudry Hospital,7,749,In-person,True
+HCP0393,Dr. Gagan Grover,Neurologist,Tier 2,T009,Chennai,Tamil Nadu,Sen-Vala Hospital,32,137,In-person,True
+HCP0394,Dr. Harshil Bal,Diabetologist,Tier 2,T010,Kolkata,West Bengal,Pandya PLC Hospital,29,740,Phone,True
+HCP0395,Dr. Ekta Rajan,Dermatologist,Tier 3,T011,Ahmedabad,Gujarat,Manne Group Hospital,16,296,Webinar,False
+HCP0396,Dr. Frado Kibe,Cardiologist,Tier 3,T012,Jaipur,Rajasthan,"Verma, Gara and Rai Hospital",19,636,In-person,True
+HCP0397,Dr. Liam Luthra,Gastroenterologist,Tier 1,T001,Pune,Maharashtra,Loyal-Tailor Hospital,15,681,Email,False
+HCP0398,Dr. Dev Ganesh,Diabetologist,Tier 2,T002,Mumbai,Maharashtra,Majumdar-Sama Hospital,17,660,Webinar,False
+HCP0399,Dr. Veda Bose,Neurologist,Tier 3,T003,Nashik,Maharashtra,Krishnamurthy-Koshy Hospital,10,889,In-person,False
+HCP0400,Dr. Rohan Shankar,Cardiologist,Tier 1,T004,Nagpur,Maharashtra,Deshmukh LLC Hospital,16,157,Phone,False
+HCP0401,Dr. Meghana Natarajan,Gastroenterologist,Tier 1,T005,Delhi,Delhi,"Rai, Narayan and Sarraf Hospital",19,882,Webinar,False
+HCP0402,Dr. Qushi Deshpande,Pulmonologist,Tier 2,T006,Gurgaon,Haryana,Nagi-Iyer Hospital,26,522,Email,False
+HCP0403,Dr. Dipta Goel,Diabetologist,Tier 3,T007,Bengaluru,Karnataka,Nagar-Manne Hospital,20,897,Email,True
+HCP0404,Dr. Xavier Nanda,Diabetologist,Tier 2,T008,Hyderabad,Telangana,Mand-Ramaswamy Hospital,26,808,Email,False
+HCP0405,Dr. Ishaan Iyengar,Gastroenterologist,Tier 2,T009,Chennai,Tamil Nadu,"Gole, Bala and Shenoy Hospital",7,85,Phone,False
+HCP0406,Dr. Raksha Manne,Gastroenterologist,Tier 3,T010,Kolkata,West Bengal,"Biswas, Rege and Tata Hospital",8,215,In-person,True
+HCP0407,Dr. Chavvi Khurana,Neurologist,Tier 2,T011,Ahmedabad,Gujarat,Dube-Sampath Hospital,34,497,In-person,True
+HCP0408,Dr. Ethan Sen,Diabetologist,Tier 2,T012,Jaipur,Rajasthan,"Srinivas, Rattan and Warrior Hospital",7,691,Phone,False
+HCP0409,Dr. Balhaar Parsa,Cardiologist,Tier 2,T001,Pune,Maharashtra,"Yadav, Chada and Chopra Hospital",26,877,In-person,True
+HCP0410,Dr. Isha Ganesan,Orthopedic Surgeon,Tier 2,T002,Mumbai,Maharashtra,"Basu, Ratta and Narula Hospital",26,253,Email,False
+HCP0411,Dr. Hitesh Anne,General Physician,Tier 2,T003,Nashik,Maharashtra,Kuruvilla and Sons Hospital,11,144,Email,False
+HCP0412,Dr. Sanaya Prasad,General Physician,Tier 2,T004,Nagpur,Maharashtra,Sheth-Tella Hospital,32,881,In-person,False
+HCP0413,Dr. Hemani Bakshi,General Physician,Tier 3,T005,Delhi,Delhi,Cheema-Merchant Hospital,33,688,Email,False
+HCP0414,Dr. Frederick D’Alia,Diabetologist,Tier 1,T006,Gurgaon,Haryana,"Dhar, Pall and Muni Hospital",2,485,Phone,False
+HCP0415,Dr. Tamanna Jhaveri,Gastroenterologist,Tier 2,T007,Bengaluru,Karnataka,"Subramanian, Pall and Soni Hospital",29,746,Email,False
+HCP0416,Dr. Raksha Sethi,Gastroenterologist,Tier 3,T008,Hyderabad,Telangana,Bhavsar-Mital Hospital,14,570,Phone,True
+HCP0417,Dr. Ishwar Bajaj,Neurologist,Tier 3,T009,Chennai,Tamil Nadu,Chopra-Gala Hospital,20,832,Webinar,True
+HCP0418,Dr. Zaitra Ghosh,Gastroenterologist,Tier 2,T010,Kolkata,West Bengal,"Dutta, Narayanan and Sandhu Hospital",27,453,In-person,True
+HCP0419,Dr. Vincent Ravel,Orthopedic Surgeon,Tier 3,T011,Ahmedabad,Gujarat,"Gour, Grewal and Sankaran Hospital",13,778,In-person,False
+HCP0420,Dr. Ayush Hora,Pulmonologist,Tier 2,T012,Jaipur,Rajasthan,Sanghvi-Ramachandran Hospital,20,789,In-person,False
+HCP0421,Dr. Tanish Jha,Oncologist,Tier 1,T001,Pune,Maharashtra,Bhatnagar-Chaudry Hospital,21,327,Phone,True
+HCP0422,Dr. Jasmit Nanda,Neurologist,Tier 3,T002,Mumbai,Maharashtra,Shankar Inc Hospital,6,539,Webinar,False
+HCP0423,Dr. Vrishti Wable,Dermatologist,Tier 2,T003,Nashik,Maharashtra,"Munshi, Rama and Ramanathan Hospital",28,636,In-person,False
+HCP0424,Dr. Ijaya Pandey,Dermatologist,Tier 3,T004,Nagpur,Maharashtra,Gera-Mishra Hospital,7,191,Email,False
+HCP0425,Dr. Krish Munshi,Endocrinologist,Tier 3,T005,Delhi,Delhi,Khare LLC Hospital,4,656,Webinar,False
+HCP0426,Dr. Qadim Prakash,Neurologist,Tier 1,T006,Gurgaon,Haryana,"Dhaliwal, Vaidya and Rama Hospital",8,344,Email,True
+HCP0427,Dr. Lakshit Rajagopal,Oncologist,Tier 2,T007,Bengaluru,Karnataka,Grewal-Sur Hospital,31,870,Email,False
+HCP0428,Dr. Ojas Suri,Cardiologist,Tier 2,T008,Hyderabad,Telangana,Dey-Grover Hospital,20,505,In-person,True
+HCP0429,Dr. Shravya Bera,Endocrinologist,Tier 2,T009,Chennai,Tamil Nadu,Andra-Sundaram Hospital,23,546,Email,False
+HCP0430,Dr. Robert Rajagopalan,Gastroenterologist,Tier 2,T010,Kolkata,West Bengal,"Tiwari, Talwar and Rege Hospital",30,819,Webinar,False
+HCP0431,Dr. Ojasvi Sawhney,Diabetologist,Tier 2,T011,Ahmedabad,Gujarat,Ganesh-Butala Hospital,9,103,Phone,True
+HCP0432,Dr. Thomas Master,Endocrinologist,Tier 3,T012,Jaipur,Rajasthan,Maharaj and Sons Hospital,17,608,Email,True
+HCP0433,Dr. Om Shankar,Gastroenterologist,Tier 3,T001,Pune,Maharashtra,"Tandon, Vaidya and Chowdhury Hospital",31,317,Webinar,True
+HCP0434,Dr. Amrita Peri,Endocrinologist,Tier 3,T002,Mumbai,Maharashtra,"Barman, Sastry and Kamdar Hospital",29,485,In-person,True
+HCP0435,Dr. Harsh Kota,Oncologist,Tier 3,T003,Nashik,Maharashtra,Bali-Sengupta Hospital,26,84,Email,True
+HCP0436,Dr. Ijaya Chahal,General Physician,Tier 3,T004,Nagpur,Maharashtra,Dalal-Khalsa Hospital,6,671,In-person,True
+HCP0437,Dr. Indali Sangha,Gastroenterologist,Tier 2,T005,Delhi,Delhi,Dewan and Sons Hospital,31,196,Phone,False
+HCP0438,Dr. Daniel Panchal,Dermatologist,Tier 3,T006,Gurgaon,Haryana,"Mand, Yohannan and Ganguly Hospital",22,691,Webinar,False
+HCP0439,Dr. Brinda Mann,Orthopedic Surgeon,Tier 1,T007,Bengaluru,Karnataka,"Loke, Varkey and Chandran Hospital",24,548,Email,False
+HCP0440,Dr. Nisha Bhargava,Orthopedic Surgeon,Tier 3,T008,Hyderabad,Telangana,Date-Deo Hospital,10,400,In-person,True
+HCP0441,Dr. Madhav Nagy,General Physician,Tier 1,T009,Chennai,Tamil Nadu,Ramaswamy Group Hospital,25,790,Email,False
+HCP0442,Dr. Amruta Sachdeva,Neurologist,Tier 3,T010,Kolkata,West Bengal,Seth-Borra Hospital,26,513,Email,False
+HCP0443,Dr. Neha Varma,Dermatologist,Tier 3,T011,Ahmedabad,Gujarat,"Mall, Pillay and Sha Hospital",13,648,Email,False
+HCP0444,Dr. Falak Agate,General Physician,Tier 1,T012,Jaipur,Rajasthan,"Chander, Shanker and Parmar Hospital",22,541,In-person,False
+HCP0445,Dr. Mitali Kamdar,Cardiologist,Tier 2,T001,Pune,Maharashtra,Kakar-Talwar Hospital,14,473,Webinar,False
+HCP0446,Dr. Ekantika Mander,Oncologist,Tier 2,T002,Mumbai,Maharashtra,De-Sundaram Hospital,30,580,Email,True
+HCP0447,Dr. Chanakya Batra,Orthopedic Surgeon,Tier 1,T003,Nashik,Maharashtra,Sharaf Inc Hospital,16,379,In-person,False
+HCP0448,Dr. Nakul Sastry,Pulmonologist,Tier 2,T004,Nagpur,Maharashtra,Acharya-Sangha Hospital,12,879,Webinar,False
+HCP0449,Dr. Kevin Mittal,Dermatologist,Tier 2,T005,Delhi,Delhi,Mahal Inc Hospital,9,354,Phone,True
+HCP0450,Dr. Zashil Butala,Oncologist,Tier 2,T006,Gurgaon,Haryana,Gandhi-Ben Hospital,29,184,Email,False
+HCP0451,Dr. Dalaja Kaur,Cardiologist,Tier 2,T007,Bengaluru,Karnataka,Chand-Chandran Hospital,24,169,Webinar,True
+HCP0452,Dr. Tanay Sood,Pulmonologist,Tier 2,T008,Hyderabad,Telangana,Deo PLC Hospital,24,807,Webinar,True
+HCP0453,Dr. Zilmil Saxena,Orthopedic Surgeon,Tier 1,T009,Chennai,Tamil Nadu,Anand Ltd Hospital,15,291,In-person,False
+HCP0454,Dr. Jai Sami,Dermatologist,Tier 2,T010,Kolkata,West Bengal,"Deo, Sridhar and Bobal Hospital",12,411,Phone,False
+HCP0455,Dr. Leela Chakraborty,Orthopedic Surgeon,Tier 2,T011,Ahmedabad,Gujarat,"Chaudry, Chauhan and Munshi Hospital",34,775,In-person,True
+HCP0456,Dr. Chandani Devan,Neurologist,Tier 3,T012,Jaipur,Rajasthan,Deol-Dhar Hospital,19,751,Email,True
+HCP0457,Dr. Abhiram Gala,Pulmonologist,Tier 1,T001,Pune,Maharashtra,Panchal-Kala Hospital,22,333,Webinar,False
+HCP0458,Dr. Nisha Savant,Endocrinologist,Tier 3,T002,Mumbai,Maharashtra,Chadha Inc Hospital,19,722,Webinar,False
+HCP0459,Dr. Jatin Rajagopalan,Oncologist,Tier 1,T003,Nashik,Maharashtra,Sanghvi-Murty Hospital,7,492,Phone,False
+HCP0460,Dr. Yug Malhotra,Oncologist,Tier 3,T004,Nagpur,Maharashtra,"Chad, Kothari and Mane Hospital",22,675,In-person,True
+HCP0461,Dr. Charvi Jha,Oncologist,Tier 3,T005,Delhi,Delhi,"Upadhyay, Gulati and Ramanathan Hospital",24,144,Webinar,True
+HCP0462,Dr. Chatura Khatri,Neurologist,Tier 3,T006,Gurgaon,Haryana,Raju-Chowdhury Hospital,33,354,Phone,False
+HCP0463,Dr. Xalak Bobal,Gastroenterologist,Tier 2,T007,Bengaluru,Karnataka,"Arora, Patel and Nadig Hospital",10,659,Webinar,False
+HCP0464,Dr. Lila Salvi,Cardiologist,Tier 1,T008,Hyderabad,Telangana,Gera-Sinha Hospital,31,96,In-person,True
+HCP0465,Dr. Anay Bir,Oncologist,Tier 2,T009,Chennai,Tamil Nadu,Lala and Sons Hospital,29,287,Email,False
+HCP0466,Dr. Darpan Rao,Endocrinologist,Tier 3,T010,Kolkata,West Bengal,"Mangat, Thaker and Sagar Hospital",19,175,Phone,False
+HCP0467,Dr. Neelima Butala,Diabetologist,Tier 2,T011,Ahmedabad,Gujarat,"Yadav, Yogi and Dua Hospital",12,133,Webinar,False
+HCP0468,Dr. Fiyaz Mukherjee,Pulmonologist,Tier 2,T012,Jaipur,Rajasthan,Vaidya and Sons Hospital,7,800,In-person,True
+HCP0469,Dr. Eta Raman,Pulmonologist,Tier 2,T001,Pune,Maharashtra,"Bhatti, Mukherjee and Sarkar Hospital",10,687,Email,False
+HCP0470,Dr. Dalbir Konda,Cardiologist,Tier 1,T002,Mumbai,Maharashtra,Saraf Inc Hospital,23,203,Webinar,True
+HCP0471,Dr. Christopher More,Oncologist,Tier 1,T003,Nashik,Maharashtra,"Gill, Dar and Arora Hospital",26,171,In-person,True
+HCP0472,Dr. Advay Gade,Gastroenterologist,Tier 2,T004,Nagpur,Maharashtra,Palan-Virk Hospital,21,220,Webinar,True
+HCP0473,Dr. Ojas Prabhu,Endocrinologist,Tier 1,T005,Delhi,Delhi,Luthra Ltd Hospital,2,704,Email,False
+HCP0474,Dr. Ayushman Nayak,Gastroenterologist,Tier 3,T006,Gurgaon,Haryana,Magar-Viswanathan Hospital,11,501,Webinar,True
+HCP0475,Dr. Adya Bose,Diabetologist,Tier 3,T007,Bengaluru,Karnataka,Shah-Vaidya Hospital,10,850,In-person,False
+HCP0476,Dr. Christopher Tata,Gastroenterologist,Tier 3,T008,Hyderabad,Telangana,"Ganesan, Pillai and Dugar Hospital",22,890,Email,True
+HCP0477,Dr. Harshil D’Alia,General Physician,Tier 3,T009,Chennai,Tamil Nadu,Upadhyay Inc Hospital,17,646,Phone,True
+HCP0478,Dr. Advik Konda,General Physician,Tier 2,T010,Kolkata,West Bengal,Sodhi LLC Hospital,34,273,Webinar,False
+HCP0479,Dr. Mason Gola,Cardiologist,Tier 3,T011,Ahmedabad,Gujarat,Saini and Sons Hospital,17,586,Webinar,True
+HCP0480,Dr. Yuvraj Saha,Pulmonologist,Tier 2,T012,Jaipur,Rajasthan,"Nagarajan, Madan and Brahmbhatt Hospital",6,620,In-person,False
+HCP0481,Dr. Jagdish Thakkar,Gastroenterologist,Tier 1,T001,Pune,Maharashtra,"Ben, Gola and Kapoor Hospital",28,454,Email,False
+HCP0482,Dr. Nandini Biswas,Diabetologist,Tier 1,T002,Mumbai,Maharashtra,Mandal-Mukhopadhyay Hospital,6,94,Phone,True
+HCP0483,Dr. Gabriel Shan,Cardiologist,Tier 3,T003,Nashik,Maharashtra,Pillay and Sons Hospital,27,598,Phone,False
+HCP0484,Dr. Daksha Kibe,Neurologist,Tier 3,T004,Nagpur,Maharashtra,Pillay-Tak Hospital,7,735,Email,False
+HCP0485,Dr. Yatan Dora,Diabetologist,Tier 2,T005,Delhi,Delhi,Rout Inc Hospital,34,288,Email,False
+HCP0486,Dr. Hiral Andra,Neurologist,Tier 3,T006,Gurgaon,Haryana,Agarwal-Puri Hospital,6,397,Webinar,True
+HCP0487,Dr. Hemang Jha,Cardiologist,Tier 2,T007,Bengaluru,Karnataka,"Khanna, Saini and Swamy Hospital",29,198,Webinar,True
+HCP0488,Dr. Lucky Mammen,General Physician,Tier 3,T008,Hyderabad,Telangana,Bassi and Sons Hospital,13,202,In-person,True
+HCP0489,Dr. Kashish Shanker,Cardiologist,Tier 1,T009,Chennai,Tamil Nadu,"Chad, Chandran and Tiwari Hospital",24,615,Phone,True
+HCP0490,Dr. Meera Borde,Gastroenterologist,Tier 1,T010,Kolkata,West Bengal,"Bhatia, Saran and De Hospital",19,830,In-person,True
+HCP0491,Dr. Bishakha Lal,Gastroenterologist,Tier 3,T011,Ahmedabad,Gujarat,Ramaswamy-Narain Hospital,19,616,In-person,False
+HCP0492,Dr. Sneha Magar,Orthopedic Surgeon,Tier 3,T012,Jaipur,Rajasthan,Borde and Sons Hospital,33,546,Phone,True
+HCP0493,Dr. Ikbal Dugal,Oncologist,Tier 3,T001,Pune,Maharashtra,Gala Group Hospital,12,456,Email,False
+HCP0494,Dr. Dipta Ray,Diabetologist,Tier 3,T002,Mumbai,Maharashtra,Wason LLC Hospital,9,313,In-person,True
+HCP0495,Dr. Siya Morar,Cardiologist,Tier 2,T003,Nashik,Maharashtra,Lanka-Dar Hospital,32,452,Webinar,True
+HCP0496,Dr. Nakul Modi,Endocrinologist,Tier 3,T004,Nagpur,Maharashtra,"Baria, Kale and Narang Hospital",4,646,Webinar,True
+HCP0497,Dr. Gavin Kothari,Gastroenterologist,Tier 2,T005,Delhi,Delhi,Randhawa-Varghese Hospital,22,357,In-person,False
+HCP0498,Dr. Chandani Lad,Diabetologist,Tier 2,T006,Gurgaon,Haryana,Balasubramanian Group Hospital,5,263,Email,True
+HCP0499,Dr. Zaid Chandra,Neurologist,Tier 1,T007,Bengaluru,Karnataka,Chaudry-Dey Hospital,31,369,Phone,False
+HCP0500,Dr. Advik Bhatia,Diabetologist,Tier 3,T008,Hyderabad,Telangana,De and Sons Hospital,2,457,Email,False
