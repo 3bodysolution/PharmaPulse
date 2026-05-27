@@ -1,0 +1,13 @@
+territory_id,territory_name,region,city,total_net_sales,unique_hcps,sales_transactions
+T001,Pune Central,West,Pune,204507544.29,42,1857
+T002,Mumbai Metro,West,Mumbai,168778037.48,42,1792
+T003,Nashik North,West,Nashik,163482981.65,42,1743
+T004,Nagpur Vidarbha,West,Nagpur,162063512.4,42,1769
+T006,Gurgaon Corporate,North,Gurgaon,153550138.8,42,1401
+T005,Delhi NCR,North,Delhi,139916214.05,42,1343
+T010,Kolkata East,East,Kolkata,130026416.17,41,1287
+T012,Jaipur Rajasthan,North,Jaipur,128472580.6,41,1404
+T009,Chennai Metro,South,Chennai,125299805.33,41,1322
+T008,Hyderabad Central,South,Hyderabad,121001578.72,42,1351
+T007,Bengaluru Urban,South,Bengaluru,120933217.39,42,1371
+T011,Ahmedabad Gujarat,West,Ahmedabad,119595571.33,41,1327
