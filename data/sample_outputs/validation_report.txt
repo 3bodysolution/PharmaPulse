@@ -1,0 +1,161 @@
+PharmaPulse Validation Report
+=============================
+
+Total checks: 69
+Passed checks: 69
+Failed checks: 0
+
+Expected Files
+--------------
+[PASS] territories.csv exists
+       Found file
+[PASS] hcps.csv exists
+       Found file
+[PASS] medical_reps.csv exists
+       Found file
+[PASS] products.csv exists
+       Found file
+[PASS] hcp_calls.csv exists
+       Found file
+[PASS] sales.csv exists
+       Found file
+[PASS] campaigns.csv exists
+       Found file
+[PASS] campaign_engagement.csv exists
+       Found file
+Required Columns
+----------------
+[PASS] territories.csv required columns
+       All required columns found
+[PASS] hcps.csv required columns
+       All required columns found
+[PASS] medical_reps.csv required columns
+       All required columns found
+[PASS] products.csv required columns
+       All required columns found
+[PASS] hcp_calls.csv required columns
+       All required columns found
+[PASS] sales.csv required columns
+       All required columns found
+[PASS] campaigns.csv required columns
+       All required columns found
+[PASS] campaign_engagement.csv required columns
+       All required columns found
+Primary Keys
+------------
+[PASS] territories.csv.territory_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] hcps.csv.hcp_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] medical_reps.csv.rep_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] products.csv.product_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] hcp_calls.csv.call_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] sales.csv.sales_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] campaigns.csv.campaign_id is unique and not missing
+       Missing: 0, duplicates: 0
+[PASS] campaign_engagement.csv.engagement_id is unique and not missing
+       Missing: 0, duplicates: 0
+Foreign Keys
+------------
+[PASS] hcps.csv.territory_id references territories.csv.territory_id
+       Invalid references: 0
+[PASS] medical_reps.csv.territory_id references territories.csv.territory_id
+       Invalid references: 0
+[PASS] hcp_calls.csv.hcp_id references hcps.csv.hcp_id
+       Invalid references: 0
+[PASS] hcp_calls.csv.rep_id references medical_reps.csv.rep_id
+       Invalid references: 0
+[PASS] hcp_calls.csv.territory_id references territories.csv.territory_id
+       Invalid references: 0
+[PASS] hcp_calls.csv.product_id references products.csv.product_id
+       Invalid references: 0
+[PASS] sales.csv.hcp_id references hcps.csv.hcp_id
+       Invalid references: 0
+[PASS] sales.csv.rep_id references medical_reps.csv.rep_id
+       Invalid references: 0
+[PASS] sales.csv.territory_id references territories.csv.territory_id
+       Invalid references: 0
+[PASS] sales.csv.product_id references products.csv.product_id
+       Invalid references: 0
+[PASS] campaigns.csv.product_id references products.csv.product_id
+       Invalid references: 0
+[PASS] campaigns.csv.territory_id references territories.csv.territory_id
+       Invalid references: 0
+[PASS] campaign_engagement.csv.campaign_id references campaigns.csv.campaign_id
+       Invalid references: 0
+[PASS] campaign_engagement.csv.hcp_id references hcps.csv.hcp_id
+       Invalid references: 0
+[PASS] campaign_engagement.csv.rep_id references medical_reps.csv.rep_id
+       Invalid references: 0
+[PASS] campaign_engagement.csv.territory_id references territories.csv.territory_id
+       Invalid references: 0
+Numeric Fields
+--------------
+[PASS] territories.csv.market_potential is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] territories.csv.target_hcps is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] hcps.csv.years_practicing is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] hcps.csv.patient_volume is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] medical_reps.csv.experience_years is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] medical_reps.csv.monthly_call_target is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] medical_reps.csv.sales_target is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] products.csv.unit_price is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] products.csv.margin_percent is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] hcp_calls.csv.call_duration_minutes is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] hcp_calls.csv.engagement_score is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] sales.csv.units_sold is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] sales.csv.gross_sales is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] sales.csv.discount_amount is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] sales.csv.net_sales is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] campaigns.csv.budget is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+[PASS] campaign_engagement.csv.response_score is numeric and non-negative
+       Invalid numeric values: 0, negative values: 0
+Business Rules
+--------------
+[PASS] hcps.csv.hcp_tier uses valid tiers
+       Invalid tier values: 0
+[PASS] hcp_calls.csv.engagement_score is between 1 and 100
+       Out-of-range scores: 0
+[PASS] campaign_engagement.csv.response_score is between 1 and 100
+       Out-of-range scores: 0
+Date Rules
+----------
+[PASS] Campaign engagement dates fall within campaign dates
+       Outside campaign window: 0, missing dates: 0
+[PASS] hcp_calls.csv.call_date falls within project date range
+       Outside 2025-01-01 to 2026-06-30: 0
+[PASS] sales.csv.sale_date falls within project date range
+       Outside 2025-01-01 to 2026-06-30: 0
+Territory Consistency
+---------------------
+[PASS] hcp_calls.csv.territory_id matches hcps.csv.territory_id
+       Territory mismatches: 0
+[PASS] hcp_calls.csv.territory_id matches medical_reps.csv.territory_id
+       Territory mismatches: 0
+[PASS] sales.csv.territory_id matches hcps.csv.territory_id
+       Territory mismatches: 0
+[PASS] sales.csv.territory_id matches medical_reps.csv.territory_id
+       Territory mismatches: 0
+[PASS] campaign_engagement.csv.territory_id matches campaigns.csv.territory_id
+       Territory mismatches: 0
+[PASS] campaign_engagement.csv.territory_id matches hcps.csv.territory_id
+       Territory mismatches: 0

@@ -1,0 +1,13 @@
+territory_id,territory_name,region,state,city,market_potential,target_hcps
+T001,Pune Central,West,Maharashtra,Pune,29455603,38
+T002,Mumbai Metro,West,Maharashtra,Mumbai,8839221,58
+T003,Nashik North,West,Maharashtra,Nashik,17228452,42
+T004,Nagpur Vidarbha,West,Maharashtra,Nagpur,15489709,39
+T005,Delhi NCR,North,Delhi,Delhi,11439167,56
+T006,Gurgaon Corporate,North,Haryana,Gurgaon,26299464,37
+T007,Bengaluru Urban,South,Karnataka,Bengaluru,27813640,48
+T008,Hyderabad Central,South,Telangana,Hyderabad,9066449,35
+T009,Chennai Metro,South,Tamil Nadu,Chennai,11143890,41
+T010,Kolkata East,East,West Bengal,Kolkata,15806804,51
+T011,Ahmedabad Gujarat,West,Gujarat,Ahmedabad,28200396,35
+T012,Jaipur Rajasthan,North,Rajasthan,Jaipur,26832259,41

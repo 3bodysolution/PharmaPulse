@@ -1,0 +1,61 @@
+campaign_id,campaign_name,product_id,territory_id,campaign_type,start_date,end_date,budget,target_hcp_tier,objective
+CAMP0001,Cardiovance Recall Campaign,PROD001,T001,Email,2026-02-16,2026-05-27,1018885,All Tiers,Drive product adoption
+CAMP0002,GlucoRight Awareness Campaign,PROD002,T002,Digital Ad,2025-05-04,2025-07-13,1028305,Tier 1,Drive product adoption
+CAMP0003,RespiraPlus Adoption Campaign,PROD003,T003,Email,2025-10-09,2025-11-22,322618,All Tiers,Improve HCP engagement
+CAMP0004,GastroEase Adoption Campaign,PROD004,T004,Digital Ad,2025-06-08,2025-09-18,514267,All Tiers,Improve HCP engagement
+CAMP0005,NeuroCalm Adoption Campaign,PROD005,T005,Webinar,2025-02-17,2025-06-09,668929,Tier 2,Increase brand awareness
+CAMP0006,OncoRelief Awareness Campaign,PROD006,T006,Email,2025-07-17,2025-09-18,538754,Tier 2,Drive product adoption
+CAMP0007,DermaCure Growth Campaign,PROD007,T007,Digital Ad,2025-05-10,2025-06-30,191662,Tier 2,Drive product adoption
+CAMP0008,PainAway Growth Campaign,PROD008,T008,Digital Ad,2025-02-03,2025-04-12,478761,Tier 1,Increase brand awareness
+CAMP0009,LipidSure Awareness Campaign,PROD009,T009,Email,2026-02-25,2026-05-27,174307,All Tiers,Improve HCP engagement
+CAMP0010,InsuCare Adoption Campaign,PROD010,T010,Field Event,2025-12-06,2026-01-16,504091,All Tiers,Increase brand awareness
+CAMP0011,BronchoFree Growth Campaign,PROD011,T011,Digital Ad,2025-03-18,2025-06-21,647904,All Tiers,Improve HCP engagement
+CAMP0012,AcidGuard Awareness Campaign,PROD012,T012,Webinar,2025-02-02,2025-05-24,1074067,Tier 2,Increase brand awareness
+CAMP0013,MigraLess Recall Campaign,PROD013,T001,Webinar,2026-03-14,2026-05-27,683969,All Tiers,Support call planning
+CAMP0014,Immunex Growth Campaign,PROD014,T002,Digital Ad,2026-01-27,2026-04-28,258217,Tier 1,Support call planning
+CAMP0015,Skinova Growth Campaign,PROD015,T003,Email,2025-06-23,2025-09-05,234587,Tier 1,Support call planning
+CAMP0016,OrthoFlex Recall Campaign,PROD016,T004,Email,2026-02-06,2026-03-31,204902,Tier 3,Increase brand awareness
+CAMP0017,BPControl Adoption Campaign,PROD017,T005,Email,2025-10-23,2025-12-31,532003,All Tiers,Increase brand awareness
+CAMP0018,SugarNorm Awareness Campaign,PROD018,T006,Email,2026-02-24,2026-05-27,1036118,Tier 3,Support call planning
+CAMP0019,AirFlo Growth Campaign,PROD019,T007,Email,2025-11-29,2026-03-13,121655,All Tiers,Support call planning
+CAMP0020,HepatoSafe Growth Campaign,PROD020,T008,Webinar,2024-12-28,2025-02-27,373260,Tier 1,Support call planning
+CAMP0021,NervePlus Adoption Campaign,PROD021,T009,Digital Ad,2025-05-05,2025-07-21,1151201,Tier 2,Increase brand awareness
+CAMP0022,ChemoCare Awareness Campaign,PROD022,T010,Digital Ad,2025-01-15,2025-03-01,780639,All Tiers,Increase brand awareness
+CAMP0023,Dermashield Awareness Campaign,PROD023,T011,Email,2025-01-21,2025-04-20,979950,Tier 1,Improve HCP engagement
+CAMP0024,JointEase Adoption Campaign,PROD024,T012,Field Event,2026-01-03,2026-04-08,951789,Tier 2,Support call planning
+CAMP0025,CardioMax Recall Campaign,PROD025,T001,Field Event,2025-04-15,2025-07-07,1146866,Tier 2,Increase brand awareness
+CAMP0026,Cardiovance Adoption Campaign,PROD001,T002,Digital Ad,2025-03-06,2025-04-05,854935,All Tiers,Increase brand awareness
+CAMP0027,GlucoRight Awareness Campaign,PROD002,T003,Digital Ad,2026-03-13,2026-05-27,1071179,Tier 1,Support call planning
+CAMP0028,RespiraPlus Adoption Campaign,PROD003,T004,Digital Ad,2026-03-25,2026-05-01,801370,Tier 3,Improve HCP engagement
+CAMP0029,GastroEase Recall Campaign,PROD004,T005,Webinar,2026-03-26,2026-05-27,518960,Tier 1,Support call planning
+CAMP0030,NeuroCalm Recall Campaign,PROD005,T006,Email,2025-07-18,2025-09-12,724293,Tier 1,Increase brand awareness
+CAMP0031,OncoRelief Recall Campaign,PROD006,T007,Field Event,2025-01-15,2025-04-21,713837,Tier 1,Improve HCP engagement
+CAMP0032,DermaCure Growth Campaign,PROD007,T008,Email,2025-06-30,2025-08-02,1029875,Tier 2,Support call planning
+CAMP0033,PainAway Growth Campaign,PROD008,T009,Webinar,2026-01-07,2026-03-07,529895,Tier 2,Drive product adoption
+CAMP0034,LipidSure Recall Campaign,PROD009,T010,Webinar,2025-10-06,2025-11-06,109767,Tier 2,Improve HCP engagement
+CAMP0035,InsuCare Recall Campaign,PROD010,T011,Field Event,2025-11-13,2025-12-21,681729,Tier 3,Increase brand awareness
+CAMP0036,BronchoFree Awareness Campaign,PROD011,T012,Email,2025-05-31,2025-07-21,383792,Tier 1,Support call planning
+CAMP0037,AcidGuard Recall Campaign,PROD012,T001,Field Event,2025-01-19,2025-03-01,1102126,Tier 1,Increase brand awareness
+CAMP0038,MigraLess Awareness Campaign,PROD013,T002,Webinar,2025-08-18,2025-10-21,565946,Tier 3,Increase brand awareness
+CAMP0039,Immunex Adoption Campaign,PROD014,T003,Digital Ad,2025-05-28,2025-09-08,1182188,Tier 1,Improve HCP engagement
+CAMP0040,Skinova Awareness Campaign,PROD015,T004,Digital Ad,2025-04-20,2025-07-26,336421,All Tiers,Increase brand awareness
+CAMP0041,OrthoFlex Adoption Campaign,PROD016,T005,Webinar,2025-05-03,2025-07-26,110948,Tier 2,Increase brand awareness
+CAMP0042,BPControl Adoption Campaign,PROD017,T006,Webinar,2025-12-17,2026-04-14,939170,Tier 2,Drive product adoption
+CAMP0043,SugarNorm Recall Campaign,PROD018,T007,Field Event,2025-01-05,2025-04-02,504293,All Tiers,Improve HCP engagement
+CAMP0044,AirFlo Growth Campaign,PROD019,T008,Email,2026-03-20,2026-04-29,1188510,Tier 1,Improve HCP engagement
+CAMP0045,HepatoSafe Adoption Campaign,PROD020,T009,Digital Ad,2026-03-30,2026-05-27,964620,All Tiers,Drive product adoption
+CAMP0046,NervePlus Awareness Campaign,PROD021,T010,Webinar,2025-12-30,2026-04-06,461082,All Tiers,Increase brand awareness
+CAMP0047,ChemoCare Awareness Campaign,PROD022,T011,Digital Ad,2025-12-21,2026-03-02,1153206,All Tiers,Drive product adoption
+CAMP0048,Dermashield Adoption Campaign,PROD023,T012,Webinar,2025-10-04,2025-11-05,1040500,Tier 1,Support call planning
+CAMP0049,JointEase Recall Campaign,PROD024,T001,Email,2025-12-13,2026-03-19,226129,Tier 2,Improve HCP engagement
+CAMP0050,CardioMax Awareness Campaign,PROD025,T002,Field Event,2026-03-07,2026-04-28,1129721,All Tiers,Drive product adoption
+CAMP0051,Cardiovance Adoption Campaign,PROD001,T003,Digital Ad,2025-06-07,2025-09-10,412377,Tier 2,Improve HCP engagement
+CAMP0052,GlucoRight Adoption Campaign,PROD002,T004,Field Event,2025-03-18,2025-04-21,936404,All Tiers,Improve HCP engagement
+CAMP0053,RespiraPlus Awareness Campaign,PROD003,T005,Digital Ad,2025-01-17,2025-03-31,736207,Tier 1,Increase brand awareness
+CAMP0054,GastroEase Growth Campaign,PROD004,T006,Webinar,2025-08-30,2025-12-19,1162923,Tier 3,Improve HCP engagement
+CAMP0055,NeuroCalm Awareness Campaign,PROD005,T007,Webinar,2025-03-09,2025-04-25,335882,Tier 2,Support call planning
+CAMP0056,OncoRelief Awareness Campaign,PROD006,T008,Email,2025-06-03,2025-07-23,702887,Tier 3,Increase brand awareness
+CAMP0057,DermaCure Adoption Campaign,PROD007,T009,Webinar,2025-07-30,2025-11-13,642504,Tier 1,Support call planning
+CAMP0058,PainAway Awareness Campaign,PROD008,T010,Email,2025-07-02,2025-08-05,709440,Tier 3,Support call planning
+CAMP0059,LipidSure Growth Campaign,PROD009,T011,Digital Ad,2026-03-21,2026-05-16,604198,Tier 1,Support call planning
+CAMP0060,InsuCare Awareness Campaign,PROD010,T012,Field Event,2025-05-27,2025-09-21,601397,Tier 1,Increase brand awareness
