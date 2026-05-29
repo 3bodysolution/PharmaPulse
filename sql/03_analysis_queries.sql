@@ -280,6 +280,35 @@ ORDER BY avg_response_score DESC;
 
 
 /*
+Additional Data Review Query: Campaign Engagement Coverage Check
+Purpose: Quickly identify campaigns with zero or very low engagement counts before dashboarding.
+*/
+SELECT
+    c.campaign_name,
+    t.region,
+    t.territory_name,
+    COUNT(ce.engagement_id) AS engagements,
+    CASE
+        WHEN COUNT(ce.engagement_id) = 0 THEN 'NO ENGAGEMENTS'
+        WHEN COUNT(ce.engagement_id) < 10 THEN 'LOW ENGAGEMENT'
+        ELSE 'OK'
+    END AS engagement_status
+FROM campaigns c
+LEFT JOIN territories t
+    ON c.territory_id = t.territory_id
+LEFT JOIN campaign_engagement ce
+    ON c.campaign_id = ce.campaign_id
+GROUP BY
+    c.campaign_name,
+    t.region,
+    t.territory_name
+ORDER BY engagements ASC
+LIMIT 10;
+
+-- Use this as a diagnostic check only; dashboard views remain separate.
+
+
+/*
 Query 09: Product Margin Contribution
 Business question: Which products contribute the most estimated margin?
 Why it matters: Revenue alone can hide margin differences across products.
