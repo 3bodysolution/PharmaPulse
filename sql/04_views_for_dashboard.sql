@@ -124,6 +124,11 @@ calls_by_hcp AS (
         MAX(call_date) AS last_call_date
     FROM hcp_calls
     GROUP BY hcp_id
+),
+call_reference AS (
+    SELECT
+        MAX(call_date) AS reference_date
+    FROM hcp_calls
 )
 SELECT
     h.hcp_id,
@@ -139,11 +144,12 @@ SELECT
     cbh.last_call_date,
     CASE
         WHEN cbh.last_call_date IS NULL THEN NULL
-        ELSE CURRENT_DATE - cbh.last_call_date
+        ELSE cr.reference_date - cbh.last_call_date
     END AS days_since_last_call
 FROM hcps h
 JOIN territories t
     ON h.territory_id = t.territory_id
+CROSS JOIN call_reference cr
 LEFT JOIN sales_by_hcp sbh
     ON h.hcp_id = sbh.hcp_id
 LEFT JOIN calls_by_hcp cbh
